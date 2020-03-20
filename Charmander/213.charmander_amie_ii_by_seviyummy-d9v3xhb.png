@@ -1,0 +1,1285 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="/favicon.ico"/>
+	<title>Weedmaps News - The Latest Marijuana &amp; Cannabis News</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The Latest Marijuana &amp; Cannabis News"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://weedmaps.com/news/" />
+<link rel="next" href="https://weedmaps.com/news/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Weedmaps News - The Latest Marijuana &amp; Cannabis News" />
+<meta property="og:description" content="The Latest Marijuana &amp; Cannabis News" />
+<meta property="og:url" content="https://weedmaps.com/news/" />
+<meta property="og:site_name" content="Weedmaps News" />
+<meta property="og:image" content="https://weedmaps.com/news/wp-content/uploads/2019/11/wm-social-image.png" />
+<meta property="og:image:secure_url" content="https://weedmaps.com/news/wp-content/uploads/2019/11/wm-social-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="The Latest Marijuana &amp; Cannabis News" />
+<meta name="twitter:title" content="Weedmaps News - The Latest Marijuana &amp; Cannabis News" />
+<meta name="twitter:image" content="https://news.weedmaps.com/wp-content/uploads/2019/11/wm-social-image.png" />
+<meta name="google-site-verification" content="hMrYzcUUhYpGzH9G_LbQ-IGV0KsoQz6Ht5B5Om9Vobg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://weedmaps.com/news/#website","url":"https://weedmaps.com/news/","name":"Weedmaps News","description":"The Latest Marijuana &amp; Cannabis News","potentialAction":{"@type":"SearchAction","target":"https://weedmaps.com/news/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://weedmaps.com/news/#webpage","url":"https://weedmaps.com/news/","inLanguage":"en-US","name":"Weedmaps News - The Latest Marijuana &amp; Cannabis News","isPartOf":{"@id":"https://weedmaps.com/news/#website"},"description":"The Latest Marijuana &amp; Cannabis News"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Weedmaps News &raquo; Feed" href="https://weedmaps.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weedmaps News &raquo; Comments Feed" href="https://weedmaps.com/news/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/weedmaps.com/news\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<!-- `the-neverending-homepage` is included in the concatenated jetpack.css -->
+<link rel='stylesheet' id='wp-block-library-css'  href='https://weedmaps.com/news/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='age-gate-css'  href='https://weedmaps.com/news/wp-content/plugins/age-gate/public/css/age-gate-public.css?ver=2.4.0' type='text/css' media='all' />
+<style id='age-gate-user-options-inline-css' type='text/css'>
+.age-gate-wrapper { background: transparent; }.age-gate-background-colour { background-color: rgba(242, 245, 245, 1); }.age-gate-form, .age-gate-form label, .age-gate-form h1, .age-gate-form h2, .age-gate-form p { color: #1ececa; }.age-gate-error { display: none; }
+</style>
+<link rel='stylesheet' id='bcct_style-css'  href='https://weedmaps.com/news/wp-content/plugins/better-click-to-tweet/assets/css/styles.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://weedmaps.com/news/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://weedmaps.com/news/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://weedmaps.com/news/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wm-ddi8hrs-css'  href='https://use.typekit.net/ddi8hrs.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://use.fontawesome.com/releases/v5.4.1/css/all.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wm-parent-style-css'  href='https://weedmaps.com/news/wp-content/themes/wp-bootstrap-4/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wmnews-styles-css'  href='https://weedmaps.com/news/wp-content/themes/wmnews/css/theme.min.css?ver=1.0.0.1581530215' type='text/css' media='all' />
+<link rel='stylesheet' id='open-iconic-bootstrap-css'  href='https://weedmaps.com/news/wp-content/themes/wp-bootstrap-4/assets/css/open-iconic-bootstrap.css?ver=v4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-4-css'  href='https://weedmaps.com/news/wp-content/themes/wp-bootstrap-4/assets/css/bootstrap.css?ver=v4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css'  href='https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-ajaxsearchlite-css'  href='https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/style-simple-red.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://weedmaps.com/news/wp-content/plugins/jetpack/css/jetpack.css?ver=8.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://weedmaps.com/news/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<link rel='https://api.w.org/' href='https://weedmaps.com/news/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://weedmaps.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://weedmaps.com/news/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://wp.me/asUe3' />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-700604-44', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+
+	
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+  analytics.load("1VjWQoNyNvLnLIdzJdrocPksQpeUjm8n");
+  }}();
+</script><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+	window.googletag = window.googletag || {cmd: []};
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/21844698151/Weedmaps.com/wm_news_btf', ['fluid'], 'div-gpt-ad-1569886769975-0').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>                <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+                			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		                <style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 100%;
+                margin: 0px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgba(217, 49, 43, 1);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+            div.asl_r .results {
+                max-height: none;
+            }
+                                -->
+                </style>
+                            <script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+            <style id="kirki-inline-styles">.custom-logo{height:60px;width:auto;}.navbar.bg-dark{background-color:#343a40 !important;}.btn-link,.btn-outline-primary,.content-area .sp-the-post .entry-header .entry-title a:hover,a{color:#00cdbe;}.btn-primary,.button.add_to_cart_button,.price_slider_amount button[type="submit"],.sp-services-section .sp-single-service .sp-service-icon,.wc-proceed-to-checkout .checkout-button.button,input[type="button"],input[type="reset"],input[type="submit"]{background-color:#00cdbe;}.btn-outline-primary,.btn-primary,.button.add_to_cart_button,.price_slider_amount button[type="submit"],.wc-proceed-to-checkout .checkout-button.button,input[type="button"],input[type="reset"],input[type="submit"]{border-color:#00cdbe;}.btn-outline-primary:hover{background-color:#00cdbe;border-color:#00cdbe;}.entry-title a:hover{color:#00cdbe !important;}.btn-outline-primary:focus,.btn-primary:focus{-webkit-box-shadow:0 0 0 0.1rem #00cdbe;-moz-box-shadow:0 0 0 0.1rem #00cdbe;box-shadow:0 0 0 0.1rem #00cdbe;}.form-row.place-order button[type="submit"],.shop_table.shop_table_responsive.woocommerce-cart-form__contents button[type="submit"],.single-product .summary.entry-summary button[type="submit"]{background-color:#00cdbe;border-color:#00cdbe;}.btn-link:hover,.comments-link a:hover,.edit-link a:hover,.entry-meta a:hover,a:active,a:focus,a:hover{color:#00cdbe;}.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.btn-primary:not(:disabled):not(.disabled):active,.button.add_to_cart_button:hover,.price_slider_amount button[type="submit"]:hover,.wc-proceed-to-checkout .checkout-button.button:hover,input[type="button"]:active,input[type="button"]:focus,input[type="button"]:hover,input[type="submit"]:active,input[type="submit"]:focus,input[type="submit"]:hover{background-color:#00cdbe;border-color:#00cdbe;}.form-row.place-order button[type="submit"]:hover,.shop_table.shop_table_responsive.woocommerce-cart-form__contents button[type="submit"]:hover,.single-product .summary.entry-summary button[type="submit"]:hover{background-color:#00cdbe !important;border-color:#00cdbe !important;}.site-footer.bg-white{background-color:#ffffff !important;}.site-footer.text-muted{color:#ffffff !important;}.site-footer a{color:#ffffff !important;}body,button,input,optgroup,select,textarea{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;font-weight:500;}.container{max-width:1200px;}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1200px;}</style></head>
+
+<body class="home blog has-art hfeed">
+
+
+<div id="wm-site-navbar-primary-mobile-menu" aria-hidden="true">
+	<div id="wm-site-navbar-primary-mobile-menu-links">
+		<a href="https://weedmaps.com/">
+			<span>Home </span>
+		</a>
+		<a href="https://weedmaps.com/orders">
+			<span>Order Online</span>
+			<div class="wm-site-navbar-primary-mobile-menu-tag">New</div>
+		</a>
+		<a href="https://weedmaps.com/dispensaries/in/">
+			<span>Dispensaries</span>
+		</a>
+		<a href="https://weedmaps.com/deliveries">
+			<span>Deliveries</span>
+		</a>
+		<a href="https://weedmaps.com/brands">
+			<span>Products</span>
+		</a>
+		<a href="https://weedmaps.com/deals">
+			<span>Deals</span>
+		</a>
+		<a href="https://weedmaps.com/strains">
+			<span>Strains</span>
+		</a>
+		<a href="https://weedmaps.com/learn">
+			<span>Learn</span>
+		</a>
+		<a href="https://weedmaps.com/news">
+			<span>News</span>
+		</a>
+		<a href="https://weedmaps.com/doctors/in/">
+			<span>Doctors</span>
+		</a>
+		<a target="_blank" href="https://store.weedmaps.com">
+			<span>Gear</span>
+		</a>
+		<a target="_blank" href="https://weedmaps.com/report-a-bug">
+			<span>Report a Bug</span>
+		</a>
+	</div>
+</div>
+
+<div id="wm-site-navbar-primary-mobile-menu-overlay"></div>
+
+<div id="page" class="site">
+
+	<a class="skip-link screen-reader-text" href="#content">
+		Skip to content	</a>
+
+	<nav id="wm-site-navbar-primary">
+	<div class="wm-site-navbar-primary-container">
+		<div class="wm-site-navbar-primary-container-side-tray">
+			<a class="wm-site-navbar-primary-mobile-menu-toggle not-tiny" data-segment-button data-segment-name="Mobile Hamburger" data-segment-text="*hamburger_icon*">
+				<i>
+					<svg width="18" height="25" fill="#4A4A4A" viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg"><path d="M20 16v-3.112H0V16h20zm0-6.444V6.444H0v3.112h20zm0-6.444V0H0v3.112h20z"/></svg>				</i>
+			</a>
+						<a id="wm-search" data-segment-button data-segment-name="Search" data-segment-text="Search">
+				<i class="search-icon">
+					<svg class="wm-search" width="20" height="20" viewBox="0 0 1792 1792"><path fill="#4A4A4A" d="M1216 832q0-185-131.5-316.5T768 384 451.5 515.5 320 832t131.5 316.5T768 1280t316.5-131.5T1216 832zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225T64 832t55.5-273.5 150-225 225-150T768 128t273.5 55.5 225 150 150 225T1472 832q0 220-124 399l343 343q37 37 37 90z"/></svg>				</i>
+			</a>
+		</div>
+		<a href="https://weedmaps.com/" class="wm-site-navbar-primary-wm-logo-wrapper">
+			<div class="wm-site-navbar-primary-wm-logo-mini">
+				<svg class="wm-icon wm-logo-mini" xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="#00CDBE" viewBox="0 0 35 19"><g fill="none"><path d="M2.46.893v9.35h29.645V.893H2.46z"/><path fill="#00CDBE" d="M20.46 1.14v1.232h.035a3.57 3.57 0 011.2-1.092c.465-.258 1-.387 1.605-.387.58 0 1.11.11 1.59.334.478.223.842.617 1.09 1.18.272-.4.642-.75 1.11-1.057.468-.305 1.02-.457 1.66-.457.485 0 .935.06 1.35.176.414.117.768.305 1.064.563.296.258.527.596.692 1.013.166.417.25.92.25 1.506v6.092h-2.522v-5.16c0-.304-.012-.59-.036-.86a1.827 1.827 0 00-.194-.707 1.21 1.21 0 00-.47-.48c-.208-.12-.49-.18-.844-.18-.355 0-.642.07-.86.2-.22.132-.392.31-.516.53a2.08 2.08 0 00-.25.74c-.04.27-.06.55-.06.832v5.07h-2.52v-5.1c0-.27-.007-.54-.02-.8-.01-.267-.06-.51-.15-.733-.09-.224-.237-.4-.443-.537-.2-.13-.51-.2-.91-.2-.12 0-.27.03-.47.08-.19.05-.38.15-.57.3-.18.15-.34.36-.47.637-.13.28-.19.64-.19 1.086v5.28h-2.52V1.14h2.369zm-9.248 9.103l-1.634-6.11h-.035l-1.563 6.11H5.37L2.46 1.14h2.663l1.686 6.18h.03L8.37 1.14h2.452l1.562 6.163h.035L14.1 1.14h2.592L13.8 10.243h-2.59z"/><path d="M33.72 3.01h1.204V.604h-2.41V3.01h1.205z"/><path fill="#00CDBE" d="M33.433 1.724h.106c.15 0 .243-.004.28-.016a.15.15 0 00.085-.06c.03-.03.04-.062.04-.1a.168.168 0 00-.031-.094.175.175 0 00-.09-.06c-.04-.01-.13-.017-.28-.017h-.11v.348zm-.26.727V1.174h.26c.244 0 .38 0 .41.003a.524.524 0 01.2.05.357.357 0 01.168.307c0 .092-.03.17-.09.236a.41.41 0 01-.254.122c.038.014.068.03.09.048.02.017.05.05.086.098.01.013.04.064.094.155l.15.25h-.32l-.107-.21c-.072-.14-.132-.23-.18-.268a.284.284 0 00-.18-.055h-.065v.525h-.262zm.547-1.61a.986.986 0 00-.477.123.894.894 0 00-.36.356.98.98 0 00-.002.969.9.9 0 00.358.358c.153.086.313.13.48.13a.976.976 0 00.972-.97.973.973 0 00-.133-.487.881.881 0 00-.36-.356.988.988 0 00-.478-.124zm0-.237c.205 0 .404.052.594.155.19.103.34.25.45.443a1.174 1.174 0 01.01 1.205c-.1.19-.25.337-.44.444-.19.106-.39.16-.6.16-.21 0-.41-.054-.6-.16a1.134 1.134 0 01-.445-.445c-.107-.19-.16-.39-.16-.6-.016-.21.039-.41.149-.602.105-.194.255-.342.445-.445.19-.103.39-.155.597-.155z"/><path fill="#000" d="M17.39 15.578c5.448 0 8.206-2.052 8.206-2.052l1.172 1.573s-4.068 3.42-9.38 3.42-9.38-3.42-9.38-3.42l1.174-1.58s2.758 2.05 8.208 2.05"/></g></svg>			</div>
+		</a>
+		<ul>
+			<li>
+				<a href="https://weedmaps.com/dispensaries/in">Dispensaries</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/deliveries">Deliveries</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/listings/in">Maps</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/brands">Products</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/deals">Deals</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/learn">Learn</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/strains">Strains</a>
+			</li>
+			<li>
+				<a href="https://weedmaps.com/orders">Order Online					<div class="wm-site-navbar-primary-tag">New</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+	<nav class="wm-site-navbar-secondary">
+	<ul>
+		<li class="category all">
+			<a href="https://weedmaps.com/news" id="select-all" class="all" data-segment-link data-segment-name="Article Category">Discover</a>
+		</li>
+		<li class="category culture-industry"><a href="https://weedmaps.com/news/culture-industry/" id="select-culture-industry" data-segment-link data-segment-name="Article Category">Culture &amp; Industry</a></li><li class="category law-politics"><a href="https://weedmaps.com/news/law-politics/" id="select-law-politics" data-segment-link data-segment-name="Article Category">Law &amp; Politics</a></li><li class="category science-medicine"><a href="https://weedmaps.com/news/science-medicine/" id="select-science-medicine" data-segment-link data-segment-name="Article Category">Science &amp; Medicine</a></li>	</ul>
+</nav>
+
+	<div id="wm-search-wrapper">
+	<div id="wm-search-bar-wrapper" class="">
+		<form role="search" autocomplete="off" method="post" id="wm-searchform" class="searchform container-fluid" action="https://weedmaps.com/news" >
+			<input autocomplete="false" name="hidden" type="text" style="display:none;">
+			<div class="row">
+				<span class="col" style="display: -webkit-box;">
+					<input type="text" autocomplete="off" value="" name="s" id="s" placeholder="Search News..." />
+					<i class="wm-close-search-icon invisible" data-segment-button data-segment-name="Search Close" data-segment-text="X" style="position: relative;display: flex;">
+						<img src="https://weedmaps.com/news/wp-content/themes/wmnews/styles/icon_desktop_search_close.svg" />
+					</i>
+				</span>
+			</div>
+		</form>
+		<hr class="wm-full-length">
+	</div>
+
+	<style>
+  @import url(https://fonts.googleapis.com/css?family=RobotoDraft:500);
+
+  .wm_spinner_wrapper
+  {
+      width: 48px;
+      height: 48px;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0,0,0,.20);
+      margin: auto;
+      border-radius: 1000px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px;
+  }
+
+  .wm_spinner
+  {
+    -webkit-animation: rotation 1.35s linear infinite;
+    animation: rotation 1.35s linear infinite;
+  }
+
+  .wm-loader-circle
+  {
+    stroke-dasharray: 180;
+    stroke-dashoffset: 0;
+    -webkit-transform-origin: center;
+    -ms-transform-origin: center;
+    transform-origin: center;
+    -webkit-animation: turn 1.35s ease-in-out infinite;
+    animation: turn 1.35s ease-in-out infinite;
+  }
+
+  @-webkit-keyframes rotation
+  {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+
+    100% {
+      -webkit-transform: rotate(270deg);
+      transform: rotate(270deg);
+    }
+  }
+
+  @keyframes rotation
+  {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+
+    100% {
+      -webkit-transform: rotate(270deg);
+      transform: rotate(270deg);
+    }
+  }
+
+  @-webkit-keyframes turn
+  {
+    0% {
+      stroke-dashoffset: 180;
+    }
+
+    50% {
+      stroke-dashoffset: 45;
+      -webkit-transform: rotate(135deg);
+      transform: rotate(135deg);
+    }
+
+    100% {
+      stroke-dashoffset: 180;
+      -webkit-transform: rotate(450deg);
+      transform: rotate(450deg);
+    }
+  }
+
+  @keyframes turn
+  {
+    0% {
+      stroke-dashoffset: 180;
+    }
+
+    50% {
+      stroke-dashoffset: 45;
+      -webkit-transform: rotate(135deg);
+      transform: rotate(135deg);
+    }
+
+    100% {
+      stroke-dashoffset: 180;
+      -webkit-transform: rotate(450deg);
+      transform: rotate(450deg);
+    }
+  }
+
+  svg.wm_spinner{stroke:#10cfc9;}
+</style>
+
+<div class="wm_spinner_wrapper">
+  <svg class="wm_spinner" width="32px" height="32px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><circle class="wm-loader-circle" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg>
+</div>
+	<div class="wmnews-frontpage-posts no-results">
+		<p class="entry-title no-results-header">Nothing Found for  &quot;<span id='no-result-query' class="entry-title"></span>"</p>
+		<h5 class="no-result-subtext">Sorry, but nothing matches your search terms<br> Please try again with some different keywords</h5>
+	</div>
+	<div id="wm-search-results" style="display: none;">
+	</div>
+</div>
+
+	<div id="content" class="site-content">
+
+				<img src="//pixel-a.basis.net/iap/4e68668abc336c95" width="1" height="1" style="position: absolute; left: -150px"/>
+<script>const wmGlobalContext = []; const wmContext ={"context_event_location":"News Feed","context_filter_types":["Article Category"],"context_filter_values":["Discover"],"context_page_index":1};</script>
+<div class="page-head">
+	<div class="mini-container">
+		<div class="row">
+			<div class="col-md-12">
+				<header class="page-header">
+					
+<span class="wmnews-post-crumbs">
+	<a href="https://weedmaps.com/" data-segment-link data-segment-name="Breadcrumb">Weedmaps</a> ∙ <a href="https://weedmaps.com/news" data-segment-link data-segment-name="Breadcrumb">News</a>
+	</span>
+<div class="searchable-heading"><h1 class="page-title">Latest News</h1></div>				</header>			</div>
+		</div>
+	</div>
+</div>
+
+	<div class="container">
+		<div class="row post-listings-wrapper">
+			<div class="col-md-12 wp-bp-content-width">
+				<div id="primary" class="content-area">
+					<main id="main" class="site-main show-featured">
+
+										
+<div class="wmnews-frontpage-posts feed post-9259 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-culture-industry category-featured tag-coronavirus tag-guide has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/weed-coronavirus-guide-to-saving-money-while-stocking-up-on-weed/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="0"
+			data-segment-is-featured-article		>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-1536x864.jpg 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-2048x1152.jpg 2048w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/CRTV-3249_Chicago_AirBnB_0129-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+								<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/weed-coronavirus-guide-to-saving-money-while-stocking-up-on-weed/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="0"
+					data-segment-is-featured-article				>Weed &#038; Coronavirus: Guide to Saving Money While Stocking up on Weed</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/culture-industry/"
+								class="wmnews-meta-catlink meta-culture-industry"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="0"
+								data-segment-is-featured-article							>Culture &amp; Industry</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+										<span class="wmnews-excerpt">With social distancing in effect amid concerns over job security and income, we put together a guide to getting the most out of each cannabis purchase. </span>
+			
+			<span class="feed-byline">
+				9 hours ago
+												<a class="author-link" 
+					href="https://weedmaps.com/news/author/hannah-meadows/"
+					rel="author"
+										data-segment-link
+					data-segment-name="Article Author"
+					data-segment-position="0"
+					data-segment-is-featured-article				>Hannah Meadows</a>
+				
+			</span>
+					
+					</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9245 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-featured category-science-medicine tag-coronavirus tag-guide tag-stoner-culture has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/weed-coronavirus-guide-to-cleaning-your-cannabis-gear/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="1"
+			data-segment-is-featured-article		>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-1536x864.jpg 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1.jpg 1920w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/MAIN-V2.00_00_22_09.Still003-1-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+								<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/weed-coronavirus-guide-to-cleaning-your-cannabis-gear/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="1"
+					data-segment-is-featured-article				>Weed &#038; Coronavirus: Guide to Cleaning Your Cannabis Gear</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/science-medicine/"
+								class="wmnews-meta-catlink meta-science-medicine"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="1"
+								data-segment-is-featured-article							>Science &amp; Medicine</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+										<span class="wmnews-excerpt">Keep the cleaning supplies nearby and follow our guide to cleaning your cannabis gear. You probably have the time now that you’re social distancing.</span>
+			
+			<span class="feed-byline">
+				1 day ago
+												<a class="author-link" 
+					href="https://weedmaps.com/news/author/hannah-meadows/"
+					rel="author"
+										data-segment-link
+					data-segment-name="Article Author"
+					data-segment-position="1"
+					data-segment-is-featured-article				>Hannah Meadows</a>
+				
+			</span>
+					
+					</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9234 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-featured category-science-medicine tag-coronavirus tag-guide tag-stoner-culture has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/weed-coronavirus-guide-to-staying-in-and-social-distancing/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="2"
+			data-segment-is-featured-article		>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-1536x864.jpg 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083.jpg 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1629512083-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+								<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/weed-coronavirus-guide-to-staying-in-and-social-distancing/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="2"
+					data-segment-is-featured-article				>Weed &#038; Coronavirus: Guide to Staying In and Social Distancing</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/science-medicine/"
+								class="wmnews-meta-catlink meta-science-medicine"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="2"
+								data-segment-is-featured-article							>Science &amp; Medicine</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+										<span class="wmnews-excerpt">What it means to isolate, stop the spread of germs, and follow our guide to making the most out of social distancing. </span>
+			
+			<span class="feed-byline">
+				2 days ago
+												<a class="author-link" 
+					href="https://weedmaps.com/news/author/hannah-meadows/"
+					rel="author"
+										data-segment-link
+					data-segment-name="Article Author"
+					data-segment-position="2"
+					data-segment-is-featured-article				>Hannah Meadows</a>
+				
+			</span>
+					
+					</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9187 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-culture-industry category-featured has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/welcome-to-the-weedmaps-strains-bracket/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="3"
+			data-segment-is-featured-article		>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-672x378.png" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-672x378.png 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-300x169.png 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-1024x576.png 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-768x432.png 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-1536x864.png 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket.png 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/WMN-Strain-Bracket-672x378.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+								<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/welcome-to-the-weedmaps-strains-bracket/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="3"
+					data-segment-is-featured-article				>Welcome to the Weedmaps Strains Madness</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/culture-industry/"
+								class="wmnews-meta-catlink meta-culture-industry"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="3"
+								data-segment-is-featured-article							>Culture &amp; Industry</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+										<span class="wmnews-excerpt">Professional and college sports may be canceled, but we put together a tournament to see which weed strain will be crowned champion of all the flowers. </span>
+			
+			<span class="feed-byline">
+				6 days ago
+												<span class="author-link">
+					Weedmaps News				</span>
+				
+			</span>
+					
+					</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-8321 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-culture-industry tag-bacteria tag-germ tag-guide tag-sesh tag-session has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2019/10/how-to-avoid-bacteria-germs-during-next-weed-sesh/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="4"
+					>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048.jpg 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2019/10/181106_DinnerSesh_048-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+		<div class="inside-l">						<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2019/10/how-to-avoid-bacteria-germs-during-next-weed-sesh/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="4"
+									>How To Avoid Germs During Your Next Sesh</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/culture-industry/"
+								class="wmnews-meta-catlink meta-culture-industry"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="4"
+															>Culture &amp; Industry</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+						
+			<span class="feed-byline">
+				5 months ago
+												<a class="author-link" 
+					href="https://weedmaps.com/news/author/tylerkoslow/"
+					rel="author"
+										data-segment-link
+					data-segment-name="Article Author"
+					data-segment-position="4"
+									>Tyler Koslow</a>
+				
+			</span>
+		</div>			
+						<span class="inside-r">
+			<span class="wmnews-excerpt">A communal smoke session, whether it be at a social event with strangers or with your closest confidants, is an amazing experience for several reasons. It sparks laughter, deep conversation,&hellip;</span>
+		</span>
+			</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9264 post type-post status-publish format-standard has-post-thumbnail hentry category-culture-industry tag-strains has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/wm-strains-madness-lets-take-a-look-at-the-dank-sixteen/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="5"
+					>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-672x378.png" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-672x378.png 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-300x169.png 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-1024x576.png 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-768x432.png 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-1536x864.png 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS.png 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/wm-3-18-STRAIN-MADNESS-672x378.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+		<div class="inside-l">						<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/wm-strains-madness-lets-take-a-look-at-the-dank-sixteen/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="5"
+									>WM Strains Madness: Let's take a look at the Dank Sixteen</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/culture-industry/"
+								class="wmnews-meta-catlink meta-culture-industry"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="5"
+															>Culture &amp; Industry</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+						
+			<span class="feed-byline">
+				8 hours ago
+												<span class="author-link">
+					Weedmaps News				</span>
+				
+			</span>
+		</div>			
+						<span class="inside-r">
+			<span class="wmnews-excerpt">The second round is underway. We breakdown the 8 matchups, and all 16 strains competing.</span>
+		</span>
+			</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9238 post type-post status-publish format-standard has-post-thumbnail hentry category-law-politics tag-marijuana-moment tag-politics has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/medical-cannabis-advocates-to-governors-protect-patient-access-amid-coronavirus/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="6"
+					>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-1536x864.jpg 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581.jpg 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_1251170581-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+		<div class="inside-l">						<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/medical-cannabis-advocates-to-governors-protect-patient-access-amid-coronavirus/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="6"
+									>Medical cannabis advocates to governors: protect patient access amid coronavirus</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/law-politics/"
+								class="wmnews-meta-catlink meta-law-politics"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="6"
+															>Law &amp; Politics</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+						
+			<span class="feed-byline">
+				2 days ago
+												<span class="author-link">
+					Marijuana Moment				</span>
+				
+			</span>
+		</div>			
+						<span class="inside-r">
+			<span class="wmnews-excerpt">In an emergency call to action sent to governors of legal medical cannabis states, Americans for Safe Access, asked to ensure that patients have access to cannabis.</span>
+		</span>
+			</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9230 post type-post status-publish format-standard has-post-thumbnail hentry category-culture-industry tag-stoner-culture tag-strains has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/wm-strains-madness-monday-madness-begins-with-32-stains-facing-off/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="7"
+					>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-1536x864.jpg 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1.jpg 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/Banner-1-1-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+		<div class="inside-l">						<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/wm-strains-madness-monday-madness-begins-with-32-stains-facing-off/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="7"
+									>WM Strains Madness: Monday madness begins with 32 stains facing off</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/culture-industry/"
+								class="wmnews-meta-catlink meta-culture-industry"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="7"
+															>Culture &amp; Industry</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+						
+			<span class="feed-byline">
+				2 days ago
+												<span class="author-link">
+					Weedmaps News				</span>
+				
+			</span>
+		</div>			
+						<span class="inside-r">
+			<span class="wmnews-excerpt">The first round is underway. We breakdown the wild card write ins, the 16 matchups, and all 32 strains competing. </span>
+		</span>
+			</div>
+	<div class="clearfix"></div>
+</div>
+
+<div class="wmnews-frontpage-posts feed post-9196 post type-post status-publish format-standard has-post-thumbnail hentry category-culture-industry tag-guide tag-missouri has-art">
+	<div class="right">
+		<a class="wmnews-post-thumb"
+			href="https://weedmaps.com/news/2020/03/missouri-weed-for-beginners/"
+			data-segment-link
+			data-segment-name="Article Featured Image"
+			data-segment-text=""
+			data-segment-position="8"
+					>
+		<img width="672" height="378" src="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-672x378.jpg" class="attachment-wmnews-newsfeed-thumb size-wmnews-newsfeed-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-672x378.jpg 672w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-300x169.jpg 300w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-1024x576.jpg 1024w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-768x432.jpg 768w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-1536x864.jpg 1536w, https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615.jpg 1600w" data-lazy-sizes="(max-width: 672px) 100vw, 672px" data-lazy-src="https://weedmaps.com/news/wp-content/uploads/2020/03/shutterstock_655162615-672x378.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+	</div>
+	<div class="left">
+		<div class="inside-l">						<h1 class="entry-title">
+				<a href="https://weedmaps.com/news/2020/03/missouri-weed-for-beginners/"
+					data-segment-link
+					data-segment-name="Article Title"
+					data-segment-position="8"
+									>A Guide to Buying Cannabis in Missouri</a>
+			</h1>
+
+						<span class="post-category wm-cat-title-text-fix">
+										<span class="wmnews-meta-cat">
+							<a href="https://weedmaps.com/news/culture-industry/"
+								class="wmnews-meta-catlink meta-culture-industry"
+								data-segment-link
+								data-segment-name="Article Category"
+								data-segment-position="8"
+															>Culture &amp; Industry</a>
+						</span>
+						<span class="meta-catsep">&nbsp;</span>
+									</span>
+			
+						
+			<span class="feed-byline">
+				6 days ago
+												<a class="author-link" 
+					href="https://weedmaps.com/news/author/sryle/"
+					rel="author"
+										data-segment-link
+					data-segment-name="Article Author"
+					data-segment-position="8"
+									>Shanti Ryle</a>
+				
+			</span>
+		</div>			
+						<span class="inside-r">
+			<span class="wmnews-excerpt">Although the Department of Health hasn&#039;t confirmed opening dates, it&#039;s still a good idea to learn the ins and outs of buying cannabis in Missouri. </span>
+		</span>
+			</div>
+	<div class="clearfix"></div>
+</div>
+
+	<nav class="navigation posts-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://weedmaps.com/news/page/2/" class="btn btn-outline-primary mb-4">Older Posts</a></div></div>
+	</nav>					</main>				</div>			</div>					</div>	</div>	<footer class="wm-site-footer">
+
+	<div class="wm-footer-navigation">
+	<div class="wm-footer-container">
+		<div class="footer-branding">
+			<div class="wm-main-logo">
+				<svg xmlns="http://www.w3.org/2000/svg" class="wm-icon wm-logo" preserveAspectRatio="xMidYMid slice" viewBox="0 0 150 36"><g fill="none"><path fill="#00CDBE" d="M15.015 21.956l-2.706-10.21h-.06l-2.59 10.21H5.34L.515 6.748h4.41L7.72 17.072h.06l2.53-10.324h4.06l2.587 10.295h.06L19.81 6.748h4.293L19.31 21.956m13.53-11.624c-.5-.55-1.26-.823-2.28-.823-.666 0-1.22.11-1.66.33-.44.22-.795.5-1.06.83-.264.33-.45.69-.558 1.06-.108.37-.17.7-.192 1h6.794c-.195-1.06-.543-1.86-1.044-2.41m-4.72 8c.628.61 1.53.91 2.706.91.842 0 1.568-.21 2.176-.63.608-.42.98-.87 1.118-1.34h3.677c-.59 1.82-1.49 3.13-2.706 3.91-1.21.78-2.68 1.17-4.41 1.17-1.19 0-2.27-.19-3.23-.57-.96-.38-1.77-.93-2.44-1.64a7.444 7.444 0 01-1.54-2.53c-.36-.99-.54-2.06-.54-3.24 0-1.14.19-2.2.56-3.18.37-.98.9-1.83 1.59-2.55.69-.72 1.51-1.28 2.46-1.69.95-.42 2.01-.62 3.16-.62 1.3 0 2.42.25 3.38.75s1.75 1.17 2.37 2.01c.62.84 1.06 1.8 1.34 2.88.28 1.07.38 2.2.3 3.38h-11c.06 1.35.41 2.33 1.03 2.94m20.94-8c-.5-.55-1.26-.82-2.28-.82-.66 0-1.22.11-1.66.33a3.089 3.089 0 00-1.62 1.9c-.1.37-.17.7-.19 1h6.8c-.19-1.06-.54-1.87-1.04-2.42m-4.72 8c.63.61 1.53.91 2.71.91.85 0 1.57-.21 2.18-.63.61-.42.98-.87 1.12-1.34h3.68c-.59 1.82-1.49 3.13-2.7 3.91-1.21.79-2.68 1.18-4.41 1.18-1.2 0-2.28-.19-3.24-.58-.96-.38-1.77-.93-2.44-1.63a7.444 7.444 0 01-1.54-2.53c-.36-.98-.54-2.06-.54-3.24 0-1.14.188-2.2.56-3.18.37-.98.9-1.83 1.59-2.55.69-.72 1.51-1.28 2.46-1.69.95-.417 2.01-.62 3.16-.62 1.3 0 2.42.25 3.38.75s1.75 1.17 2.37 2.012c.62.84 1.07 1.8 1.34 2.88.28 1.08.37 2.205.29 3.383h-11c.06 1.36.403 2.34 1.03 2.94m21.89-5.83a4.415 4.415 0 00-.603-1.53 3.456 3.456 0 00-1.102-1.07c-.45-.27-1.02-.41-1.705-.41-.687 0-1.265.14-1.735.41-.47.28-.85.64-1.13 1.09-.28.455-.49.97-.62 1.55a8.84 8.84 0 00-.19 1.81c0 .583.07 1.172.21 1.76.14.585.36 1.11.66 1.57.31.46.69.83 1.15 1.115.46.28 1.02.427 1.66.427.69 0 1.26-.134 1.72-.41.46-.27.83-.64 1.11-1.1.28-.46.47-.99.59-1.573.12-.59.18-1.2.18-1.82 0-.63-.06-1.236-.17-1.81zm.177 7.53c-.49.82-1.132 1.42-1.926 1.78-.794.36-1.69.55-2.69.55-1.137 0-2.14-.22-3-.66a5.997 5.997 0 01-2.133-1.796 8.13 8.13 0 01-1.264-2.604c-.28-.98-.42-2-.42-3.06 0-1.02.14-2 .43-2.95.29-.95.71-1.79 1.27-2.52s1.26-1.31 2.11-1.75c.85-.445 1.83-.665 2.94-.665.9 0 1.76.19 2.58.57.82.38 1.46.948 1.93 1.69h.06V.96h4.18v21H66.5v-1.943h-.06zm41.916-7.49a4.396 4.396 0 00-.603-1.53c-.29-.44-.65-.8-1.11-1.07-.45-.273-1.02-.41-1.71-.41s-1.27.137-1.74.41c-.47.277-.85.64-1.14 1.09-.29.45-.49.967-.62 1.546-.13.578-.19 1.18-.19 1.81 0 .587.06 1.176.2 1.765.13.59.36 1.117.66 1.578.3.46.68.84 1.14 1.12.46.28 1.01.43 1.66.43.68 0 1.26-.13 1.72-.41.46-.27.83-.64 1.1-1.1.27-.46.47-.983.59-1.57.11-.59.17-1.192.17-1.82 0-.63-.06-1.233-.17-1.81zm.17 7.54c-.49.82-1.13 1.415-1.93 1.78-.8.36-1.69.54-2.69.54-1.14 0-2.14-.22-3-.66a5.959 5.959 0 01-2.13-1.79c-.56-.754-.98-1.62-1.27-2.6-.29-.98-.43-2-.43-3.06 0-1.02.14-2 .42-2.95.28-.95.7-1.79 1.26-2.517a6.318 6.318 0 012.1-1.75c.84-.44 1.82-.66 2.94-.66.9 0 1.76.19 2.57.573.81.38 1.45.94 1.92 1.69h.05V6.7h4.18v15.28h-3.97v-1.94h-.06zM77.06 6.77v2.06h.06c.548-.783 1.21-1.39 1.984-1.82.774-.43 1.663-.65 2.662-.65.96 0 1.838.188 2.633.56.79.373 1.39 1.028 1.8 1.97.45-.666 1.06-1.255 1.84-1.764.77-.508 1.69-.765 2.75-.765.8 0 1.55.1 2.23.3.68.2 1.27.51 1.76.94.49.44.87 1 1.15 1.7.27.7.41 1.54.41 2.52V22h-4.17v-8.63c0-.508-.02-.99-.06-1.44-.04-.45-.15-.84-.33-1.176a2.02 2.02 0 00-.78-.795c-.34-.2-.81-.3-1.4-.3-.59 0-1.07.11-1.43.34-.37.22-.65.52-.86.88-.21.36-.35.77-.41 1.23-.07.46-.11.92-.11 1.4v8.47h-4.17v-8.53c0-.45-.01-.9-.03-1.34a3.95 3.95 0 00-.25-1.22c-.15-.37-.39-.67-.74-.9-.35-.23-.85-.34-1.52-.34-.2 0-.46.04-.78.13-.33.09-.64.25-.94.5-.31.24-.57.6-.78 1.06-.22.46-.33 1.06-.33 1.81v8.82H73.1V6.77h3.94zm47.163 12.06a3.38 3.38 0 001.12-1.075c.284-.443.484-.957.602-1.546a8.98 8.98 0 00.176-1.79c0-.61-.06-1.2-.19-1.79-.13-.58-.34-1.11-.63-1.57-.29-.46-.67-.83-1.13-1.11-.46-.28-1.02-.42-1.69-.42-.69 0-1.26.14-1.72.43-.46.29-.83.65-1.11 1.1-.28.45-.48.97-.6 1.56a9.131 9.131 0 00.02 3.61c.13.59.34 1.1.62 1.54.28.44.66.8 1.13 1.07.47.27 1.04.41 1.71.41.69 0 1.26-.14 1.72-.41zM118.8 6.77v1.94h.056c.51-.823 1.157-1.42 1.942-1.793.784-.373 1.647-.56 2.588-.56 1.196 0 2.226.226 3.088.677a6.374 6.374 0 012.15 1.793c.567.75.99 1.618 1.263 2.608.275.99.412 2.025.412 3.104 0 1.02-.14 2-.42 2.94-.28.94-.69 1.77-1.25 2.5-.56.72-1.26 1.3-2.09 1.73-.83.43-1.81.65-2.93.65-.94 0-1.81-.19-2.61-.58-.8-.38-1.45-.95-1.96-1.7H119v7.21h-4.176V6.77h3.972zm16.493 11.43c.187.324.426.59.72.794.295.207.632.36 1.016.458.38.097.77.146 1.19.146.29 0 .6-.034.92-.102.32-.068.61-.177.88-.325.26-.14.48-.34.66-.58.17-.24.26-.55.26-.93 0-.62-.42-1.09-1.25-1.41-.84-.31-2-.63-3.49-.94-.61-.13-1.2-.3-1.78-.48-.58-.18-1.1-.43-1.55-.73-.45-.3-.82-.68-1.09-1.14-.28-.46-.42-1.02-.42-1.69 0-.98.19-1.78.57-2.41a4.2 4.2 0 011.51-1.48c.62-.36 1.33-.61 2.11-.76.79-.15 1.59-.22 2.41-.22s1.62.08 2.4.24c.77.16 1.46.42 2.07.79.61.38 1.12.87 1.52 1.49.4.62.64 1.4.72 2.34h-3.97c-.06-.8-.37-1.35-.92-1.63-.55-.28-1.2-.43-1.94-.43-.24 0-.49.02-.77.04-.27.03-.52.09-.75.19-.22.1-.41.24-.57.43-.16.19-.24.44-.24.75 0 .38.14.68.41.91.27.24.63.43 1.07.58.44.15.94.28 1.51.4.57.12 1.145.25 1.734.38.605.14 1.2.3 1.78.5.58.2 1.09.46 1.542.78.45.32.81.72 1.09 1.2.27.48.41 1.07.41 1.78 0 1-.2 1.84-.61 2.51-.4.68-.925 1.22-1.57 1.64-.65.41-1.39.7-2.22.87-.837.17-1.686.25-2.55.25-.88 0-1.74-.09-2.59-.26-.84-.18-1.59-.47-2.25-.88a5.088 5.088 0 01-1.614-1.636c-.42-.672-.65-1.52-.69-2.54h4c0 .45.09.834.28 1.16"/><path class="smile" fill="#000" d="M72.824 31.033c9.028 0 13.598-3.428 13.598-3.428l1.942 2.628s-6.74 5.715-15.54 5.715c-8.8 0-15.54-5.715-15.54-5.715l1.942-2.628s4.57 3.428 13.598 3.428"/><path fill="#00CDBE" d="M146.924 8.304h.182c.26 0 .42-.01.483-.03.06-.02.11-.054.14-.105.03-.05.05-.11.05-.17 0-.07-.02-.12-.06-.17a.418.418 0 00-.15-.11c-.07-.02-.23-.03-.48-.03h-.18v.61zm-.45 1.257V7.35h.45c.42 0 .656 0 .707.005.15.012.27.042.35.088.09.047.15.117.21.212.06.096.09.2.09.317 0 .16-.05.297-.15.41a.695.695 0 01-.44.21.62.62 0 01.16.084c.04.03.09.086.15.17.02.022.07.11.16.27l.26.445h-.55l-.18-.35c-.12-.24-.23-.39-.31-.45a.496.496 0 00-.31-.09h-.11v.91h-.45zm.945-2.79c-.29 0-.57.08-.83.22-.27.15-.47.35-.62.62a1.701 1.701 0 00-.01 1.69c.15.27.35.48.62.62a1.65 1.65 0 001.66.01c.26-.14.47-.35.62-.62.15-.26.22-.54.22-.83 0-.29-.08-.57-.23-.84-.15-.27-.36-.47-.63-.62-.26-.14-.54-.21-.83-.21zm-.01-.41c.35 0 .7.09 1.03.27.32.18.58.44.77.77.19.34.28.69.28 1.05s-.1.71-.28 1.04c-.19.33-.44.59-.77.77-.33.19-.68.28-1.04.28s-.71-.09-1.04-.27c-.33-.18-.59-.44-.77-.77a2.03 2.03 0 01-.28-1.04c0-.36.09-.71.28-1.05.19-.33.44-.59.77-.77.33-.18.67-.27 1.03-.27z"/></g></svg>			</div>
+			<p class="brand-message">A community connecting cannabis consumers, patients, retailers, doctors, and brands since 2008.</p>
+
+			<div class="wm-footer-store-badges">
+	<a href="https://apps.apple.com/app/apple-store/id350189835?pt=314702&ct=WM.com%20-%20Footer&mt=8" class="store-badge">
+		<span class="sr-only">Download on the App Store</span>
+		<svg xmlns="http://www.w3.org/2000/svg" fill="#4a4a4a" width="119.664" height="40"><path d="M110.135 0H9.535c-.367 0-.73 0-1.095.002-.306.002-.61.008-.919.013A13.215 13.215 0 005.517.19a6.665 6.665 0 00-1.9.627 6.438 6.438 0 00-1.62 1.18A6.258 6.258 0 00.82 3.617 6.601 6.601 0 00.195 5.52a12.993 12.993 0 00-.179 2.002c-.01.307-.01.615-.015.921V31.56c.005.31.006.61.015.921a12.992 12.992 0 00.18 2.002 6.588 6.588 0 00.624 1.905A6.208 6.208 0 001.998 38a6.274 6.274 0 001.618 1.179 6.7 6.7 0 001.901.63 13.455 13.455 0 002.004.177c.31.007.613.011.919.011.366.002.728.002 1.095.002h100.6c.36 0 .724 0 1.084-.002.304 0 .617-.004.922-.01a13.279 13.279 0 002-.178 6.804 6.804 0 001.908-.63A6.277 6.277 0 00117.666 38a6.395 6.395 0 001.182-1.614 6.604 6.604 0 00.619-1.905 13.506 13.506 0 00.185-2.002c.004-.31.004-.61.004-.921.008-.364.008-.725.008-1.094V9.536c0-.366 0-.73-.008-1.092 0-.306 0-.614-.004-.92a13.507 13.507 0 00-.185-2.003 6.618 6.618 0 00-.62-1.903 6.466 6.466 0 00-2.798-2.8 6.768 6.768 0 00-1.908-.627 13.044 13.044 0 00-2-.176c-.305-.005-.618-.011-.922-.013-.36-.002-.725-.002-1.084-.002z" fill="#a6a6a6"/><path d="M8.445 39.125c-.305 0-.602-.004-.904-.01a12.687 12.687 0 01-1.87-.164 5.884 5.884 0 01-1.656-.548 5.406 5.406 0 01-1.397-1.016 5.32 5.32 0 01-1.02-1.397 5.722 5.722 0 01-.544-1.657 12.414 12.414 0 01-.166-1.875c-.007-.21-.015-.913-.015-.913v-23.1s.009-.692.015-.895a12.37 12.37 0 01.165-1.872 5.755 5.755 0 01.544-1.662 5.373 5.373 0 011.015-1.398 5.565 5.565 0 011.402-1.023 5.823 5.823 0 011.653-.544A12.586 12.586 0 017.543.887l.902-.012h102.769l.913.013a12.385 12.385 0 011.858.162 5.938 5.938 0 011.671.548 5.594 5.594 0 012.415 2.42 5.763 5.763 0 01.535 1.649 12.995 12.995 0 01.174 1.887c.003.283.003.588.003.89.008.375.008.732.008 1.092v20.929c0 .363 0 .718-.008 1.075 0 .325 0 .623-.004.93a12.731 12.731 0 01-.17 1.853 5.739 5.739 0 01-.54 1.67 5.48 5.48 0 01-1.016 1.386 5.413 5.413 0 01-1.4 1.022 5.862 5.862 0 01-1.668.55 12.542 12.542 0 01-1.869.163c-.293.007-.6.011-.897.011l-1.084.002z"/><path d="M24.769 20.3a4.949 4.949 0 012.356-4.151 5.066 5.066 0 00-3.99-2.158c-1.68-.176-3.308 1.005-4.164 1.005-.872 0-2.19-.988-3.608-.958a5.315 5.315 0 00-4.473 2.728c-1.934 3.348-.491 8.269 1.361 10.976.927 1.325 2.01 2.805 3.428 2.753 1.387-.058 1.905-.885 3.58-.885 1.658 0 2.144.885 3.59.852 1.489-.025 2.426-1.332 3.32-2.67a10.962 10.962 0 001.52-3.092 4.782 4.782 0 01-2.92-4.4zm-2.732-8.09a4.872 4.872 0 001.115-3.49 4.957 4.957 0 00-3.208 1.66 4.636 4.636 0 00-1.144 3.36 4.1 4.1 0 003.237-1.53zm20.265 14.93H37.57l-1.137 3.356h-2.005l4.484-12.418h2.083l4.483 12.418h-2.039zm-4.243-1.55h3.752l-1.85-5.446h-.051zm17.101.38c0 2.813-1.506 4.62-3.779 4.62a3.07 3.07 0 01-2.848-1.583h-.043v4.484h-1.86V21.442h1.8v1.506h.033a3.212 3.212 0 012.883-1.6c2.298 0 3.813 1.816 3.813 4.622zm-1.91 0c0-1.833-.948-3.038-2.393-3.038-1.42 0-2.375 1.23-2.375 3.038 0 1.824.955 3.046 2.375 3.046 1.445 0 2.393-1.197 2.393-3.046zm11.875 0c0 2.813-1.506 4.62-3.779 4.62a3.07 3.07 0 01-2.848-1.583h-.043v4.484h-1.859V21.442h1.799v1.506h.034a3.212 3.212 0 012.883-1.6c2.298 0 3.813 1.816 3.813 4.622zm-1.91 0c0-1.833-.948-3.038-2.393-3.038-1.42 0-2.375 1.23-2.375 3.038 0 1.824.955 3.046 2.375 3.046 1.445 0 2.392-1.197 2.392-3.046zm8.495 1.066c.138 1.232 1.334 2.04 2.97 2.04 1.566 0 2.693-.808 2.693-1.919 0-.964-.68-1.54-2.29-1.936l-1.609-.388c-2.28-.55-3.339-1.617-3.339-3.348 0-2.142 1.867-3.614 4.519-3.614 2.624 0 4.423 1.472 4.483 3.614h-1.876c-.112-1.239-1.136-1.987-2.634-1.987s-2.521.757-2.521 1.858c0 .878.654 1.395 2.255 1.79l1.368.336c2.548.603 3.606 1.626 3.606 3.443 0 2.323-1.85 3.778-4.793 3.778-2.754 0-4.614-1.42-4.734-3.667zM83.346 19.3v2.142h1.722v1.472h-1.722v4.991c0 .776.345 1.137 1.102 1.137a5.808 5.808 0 00.611-.043v1.463a5.104 5.104 0 01-1.032.086c-1.833 0-2.548-.689-2.548-2.445v-5.189h-1.316v-1.472h1.316V19.3zm2.719 6.67c0-2.849 1.678-4.639 4.294-4.639 2.625 0 4.295 1.79 4.295 4.639 0 2.856-1.661 4.638-4.295 4.638-2.633 0-4.294-1.782-4.294-4.638zm6.695 0c0-1.954-.895-3.108-2.401-3.108s-2.4 1.162-2.4 3.108c0 1.962.894 3.106 2.4 3.106s2.401-1.144 2.401-3.106zm3.426-4.528h1.773v1.541h.043a2.16 2.16 0 012.177-1.635 2.866 2.866 0 01.637.069v1.738a2.598 2.598 0 00-.835-.112 1.873 1.873 0 00-1.937 2.083v5.37h-1.858zm13.198 6.395c-.25 1.643-1.85 2.771-3.898 2.771-2.634 0-4.269-1.764-4.269-4.595 0-2.84 1.644-4.682 4.19-4.682 2.506 0 4.08 1.72 4.08 4.466v.637h-6.394v.112a2.358 2.358 0 002.436 2.564 2.048 2.048 0 002.09-1.273zm-6.282-2.702h4.526a2.177 2.177 0 00-2.22-2.298 2.292 2.292 0 00-2.306 2.298zM37.826 8.731a2.64 2.64 0 012.808 2.965c0 1.906-1.03 3.002-2.808 3.002h-2.155V8.73zm-1.228 5.123h1.125a1.876 1.876 0 001.967-2.146 1.881 1.881 0 00-1.967-2.134h-1.125zm5.082-1.41a2.133 2.133 0 114.248 0 2.134 2.134 0 11-4.247 0zm3.334 0c0-.976-.439-1.547-1.208-1.547-.773 0-1.207.571-1.207 1.547 0 .984.434 1.55 1.207 1.55.77 0 1.208-.57 1.208-1.55zm6.559 2.254h-.922l-.93-3.317h-.07l-.927 3.317h-.913l-1.242-4.503h.902l.806 3.436h.067l.926-3.436h.852l.926 3.436h.07l.803-3.436h.889zm2.281-4.503h.855v.715h.066a1.348 1.348 0 011.344-.802 1.465 1.465 0 011.559 1.675v2.915h-.889v-2.692c0-.724-.314-1.084-.972-1.084a1.033 1.033 0 00-1.075 1.141v2.635h-.888zm5.24-1.758h.888v6.26h-.888zm2.124 4.007a2.133 2.133 0 114.247 0 2.134 2.134 0 11-4.247 0zm3.333 0c0-.976-.439-1.547-1.208-1.547-.773 0-1.207.571-1.207 1.547 0 .984.434 1.55 1.207 1.55.77 0 1.208-.57 1.208-1.55zm1.849.98c0-.81.604-1.278 1.676-1.344l1.22-.07v-.389c0-.475-.315-.744-.922-.744-.497 0-.84.182-.939.5h-.86c.09-.773.818-1.27 1.84-1.27 1.128 0 1.765.563 1.765 1.514v3.077h-.855v-.633h-.07a1.515 1.515 0 01-1.353.707 1.36 1.36 0 01-1.501-1.348zm2.895-.384v-.377l-1.1.07c-.62.042-.9.253-.9.65 0 .405.351.64.834.64a1.062 1.062 0 001.166-.983zm2.053-.596c0-1.423.732-2.324 1.87-2.324a1.484 1.484 0 011.38.79h.067V8.437h.888v6.26h-.851v-.71h-.07a1.563 1.563 0 01-1.415.785c-1.145 0-1.869-.901-1.869-2.328zm.918 0c0 .955.45 1.53 1.203 1.53.75 0 1.212-.583 1.212-1.526 0-.938-.468-1.53-1.212-1.53-.748 0-1.203.58-1.203 1.526zm6.964 0a2.133 2.133 0 114.247 0 2.134 2.134 0 11-4.247 0zm3.333 0c0-.976-.438-1.547-1.208-1.547-.772 0-1.207.571-1.207 1.547 0 .984.435 1.55 1.207 1.55.77 0 1.208-.57 1.208-1.55zm2.107-2.249h.855v.715h.066a1.348 1.348 0 011.344-.802 1.465 1.465 0 011.559 1.675v2.915h-.889v-2.692c0-.724-.314-1.084-.972-1.084a1.033 1.033 0 00-1.075 1.141v2.635h-.889zm8.845-1.121v1.141h.976v.749h-.976v2.315c0 .472.194.679.637.679a2.967 2.967 0 00.339-.021v.74a2.916 2.916 0 01-.484.046c-.988 0-1.381-.348-1.381-1.216v-2.543h-.715v-.749h.715V9.074zm2.19-.637h.88v2.481h.07a1.386 1.386 0 011.374-.806 1.483 1.483 0 011.55 1.679v2.907h-.889V12.01c0-.72-.335-1.084-.963-1.084a1.052 1.052 0 00-1.134 1.142v2.63h-.888zm9.056 5.045a1.828 1.828 0 01-1.95 1.303 2.045 2.045 0 01-2.081-2.325 2.077 2.077 0 012.076-2.352c1.253 0 2.009.856 2.009 2.27v.31h-3.18v.05a1.19 1.19 0 001.2 1.29 1.08 1.08 0 001.07-.546zm-3.126-1.451h2.275a1.086 1.086 0 00-1.109-1.167 1.152 1.152 0 00-1.166 1.167z" fill="#fff"/></svg>	</a>
+	<a href="https://play.google.com/store/apps/details?id=com.weedmaps.app.android&referrer=utm_source%3Dweedmaps%26utm_medium%3Dfooter" class="store-badge">
+		<span class="sr-only">Get it on Google Play</span>
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5435.8 1604" width="136" height="40" fill="#4a4a4a"><path d="M5234.4 1604h-5033C90.4 1604 0 1513.6 0 1403.5v-1203C0 90 90.4 0 201.4 0h5033c110.9 0 201.4 90 201.4 200.5v1203c0 110.1-90.5 200.5-201.4 200.5z" fill-rule="evenodd" clip-rule="evenodd"/><path d="M5234.4 32.1c93.1 0 169.3 75.7 169.3 168.4v1203c0 92.7-75.7 168.4-169.3 168.4h-5033c-93.1 0-169.3-75.7-169.3-168.4v-1203c0-92.7 75.7-168.4 169.3-168.4h5033zm0-32.1h-5033C90.4 0 0 90.4 0 200.5v1203C0 1514 90.4 1604 201.4 1604h5033c110.9 0 201.4-90 201.4-200.5v-1203C5435.8 90.4 5345.3 0 5234.4 0z" fill-rule="evenodd" clip-rule="evenodd" fill="#a6a6a6"/><path d="M2863.6 530.6c-36.3 0-66.9-12.7-91.1-37.7-24-24.3-37.4-57.8-36.8-92 0-36.5 12.4-67.4 36.8-91.9 24.1-25 54.7-37.7 91-37.7 35.9 0 66.5 12.7 91.1 37.7 24.4 25.3 36.8 56.2 36.8 91.9-.4 36.6-12.8 67.5-36.8 91.9-24.1 25.2-54.7 37.8-91 37.8zm-1080.1 0c-35.5 0-66.3-12.5-91.5-37.2-25-24.6-37.7-55.7-37.7-92.4s12.7-67.8 37.7-92.4c24.7-24.7 55.5-37.2 91.5-37.2 17.6 0 34.7 3.5 51.1 10.6 16.1 6.9 29.2 16.3 38.9 27.8l2.4 2.9-27.1 26.6-2.8-3.3c-15.3-18.2-35.8-27.1-62.9-27.1-24.2 0-45.3 8.6-62.7 25.6-17.5 17.1-26.4 39.5-26.4 66.6s8.9 49.5 26.4 66.6c17.4 17 38.5 25.6 62.7 25.6 25.8 0 47.5-8.6 64.4-25.6 10-10 16.2-24 18.4-41.7H1779v-37.4h124.2l.5 3.4c.9 6.3 1.8 12.8 1.8 18.8 0 34.5-10.4 62.4-31 83-23.4 24.4-54 36.8-91 36.8zm1436.1-5.3h-38.3L3064 337.6l1 33.8v153.8h-38.3V276.7h43.7l1.2 1.9 110.3 176.8-1-33.7v-145h38.7v248.6zm-643.8 0H2537V314.1h-67.3v-37.4H2643v37.4h-67.3v211.2zm-137.7 0h-38.7V276.7h38.7v248.6zm-217.5 0h-38.7V314.1h-67.3v-37.4h173.3v37.4h-67.3v211.2zm-130.5-.4h-148.4V276.7h148.4v37.4h-109.6v68.2h98.9v37h-98.9v68.2h109.6v37.4zm710.8-57.7c17.3 17.3 38.3 26 62.7 26 25.1 0 45.6-8.5 62.7-26 17-17 25.6-39.3 25.6-66.2s-8.6-49.3-25.5-66.2c-17.3-17.3-38.4-26-62.7-26-25.1 0-45.6 8.5-62.6 26-17 17-25.6 39.3-25.6 66.2s8.5 49.3 25.4 66.2z" fill="#fff"/><path d="M2732.1 872.4c-94.5 0-171.1 71.7-171.1 170.6 0 98 77.1 170.6 171.1 170.6 94.5 0 171.1-72.2 171.1-170.6 0-98.9-76.6-170.6-171.1-170.6zm0 273.6c-51.7 0-96.2-42.8-96.2-103.4 0-61.5 44.6-103.4 96.2-103.4 51.7 0 96.2 41.9 96.2 103.4.1 61-44.5 103.4-96.2 103.4zm-373.3-273.6c-94.5 0-171.1 71.7-171.1 170.6 0 98 77.1 170.6 171.1 170.6 94.5 0 171.1-72.2 171.1-170.6 0-98.9-76.7-170.6-171.1-170.6zm0 273.6c-51.7 0-96.2-42.8-96.2-103.4 0-61.5 44.6-103.4 96.2-103.4 51.7 0 96.2 41.9 96.2 103.4 0 61-44.5 103.4-96.2 103.4zm-444.2-221.5v72.2h173.3c-5.3 40.5-18.7 70.4-39.2 90.9-25.4 25.4-64.6 53-133.7 53-106.5 0-189.8-86-189.8-192.5s83.3-192.5 189.8-192.5c57.5 0 99.4 22.7 130.5 51.7l51.2-51.2c-43.2-41.4-100.7-73.1-181.3-73.1-146.1 0-268.7 119-268.7 264.7 0 146.1 122.5 264.7 268.7 264.7 78.9 0 138.1-25.8 184.9-74.4 47.7-47.7 62.8-115 62.8-169.3 0-16.9-1.3-32.1-4-45h-244.6c.1-.1.1.8.1.8zm1816.9 56.2C3717.2 942.4 3674 872 3585.4 872c-87.8 0-160.8 69.1-160.8 170.6 0 95.8 72.2 170.6 169.3 170.6 78 0 123.4-47.7 142.1-75.7l-57.9-38.8c-19.2 28.5-45.9 47.2-83.8 47.2-38.3 0-65.1-17.4-82.9-51.7l228.1-94.5c0 .1-8-19-8-19zm-232.6 57c-1.8-65.9 51.2-99.4 89.1-99.4 29.9 0 54.8 14.7 63.3 36.1l-152.4 63.3zM3313.6 1203h74.9V701.8h-74.9V1203zm-123-292.7h-2.7c-16.9-20.1-49-38.3-90-38.3-85.1 0-163.5 74.9-163.5 171.1 0 95.8 78 169.8 163.5 169.8 40.5 0 73.1-18.3 90-38.8h2.7v24.5c0 65.1-34.8 100.2-90.9 100.2-45.9 0-74.4-33-86-60.6l-65.1 27.2c18.7 45 68.6 100.7 151 100.7 87.8 0 162.2-51.7 162.2-177.8V882.2H3191v28.1h-.4zm-86 235.7c-51.7 0-94.9-43.2-94.9-102.9 0-60.2 43.2-103.8 94.9-103.8 51.2 0 90.9 44.1 90.9 103.8.5 59.7-39.6 102.9-90.9 102.9zm977.6-444.2h-179.1V1203h74.9v-189.8h104.3c82.9 0 164.4-60.1 164.4-155.5s-81.2-155.9-164.5-155.9zm2.2 241.4h-106.5v-172h106.5c56.1 0 87.8 46.3 87.8 86 0 39.3-32.1 86-87.8 86zm462.5-71.7c-54.4 0-110.5 24.1-133.7 76.6l66.4 27.6c14.3-27.6 40.5-37 68.2-37 38.8 0 78 23.2 78.9 64.6v5.3c-13.4-7.6-42.8-19.2-78-19.2-71.7 0-144.4 39.2-144.4 112.7 0 67.3 58.8 110.5 124.3 110.5 50.3 0 78-22.7 95.3-49h2.7v38.8h72.2v-192c0-89.4-66.4-138.9-151.9-138.9zm-9.4 274.5c-24.5 0-58.8-12-58.8-42.8 0-38.8 42.8-53.5 79.3-53.5 33 0 48.6 7.1 68.2 16.9-5.4 45-43.4 79-88.7 79.4zm424.7-263.8l-86 217.4h-2.7l-89.1-217.4h-80.6l133.7 303.9-76.2 168.9h78L5045 882.2h-82.8zM4288 1203h74.9V701.8H4288V1203z" fill-rule="evenodd" clip-rule="evenodd" fill="#fff"/><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="1682.108" y1="1339.478" x2="1624.292" y2="1309.634" gradientTransform="matrix(11.64 0 0 -22.55 -18705.596 30554.37)"><stop offset="0" stop-color="#00a0ff"/><stop offset=".007" stop-color="#00a1ff"/><stop offset=".26" stop-color="#00beff"/><stop offset=".512" stop-color="#00d2ff"/><stop offset=".76" stop-color="#00dfff"/><stop offset="1" stop-color="#00e3ff"/></linearGradient><path d="M418.4 302.1c-11.6 12.5-18.3 31.6-18.3 56.6v886.7c0 25 6.7 44.1 18.7 56.1l3.1 2.7 496.8-496.8v-11.1L421.5 299.4l-3.1 2.7z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#a)"/><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1712.662" y1="1274.838" x2="1606.561" y2="1274.838" gradientTransform="matrix(9.145 0 0 -7.7 -14305.538 10618.251)"><stop offset="0" stop-color="#ffe000"/><stop offset=".409" stop-color="#ffbd00"/><stop offset=".775" stop-color="orange"/><stop offset="1" stop-color="#ff9c00"/></linearGradient><path d="M1084 973.5L918.3 807.8v-11.6L1084 630.5l3.6 2.2 196 111.4c56.1 31.6 56.1 83.8 0 115.8l-196 111.4-3.6 2.2z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#b)"/><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="1707.441" y1="1290.047" x2="1646.682" y2="1211.223" gradientTransform="matrix(15.02 0 0 -11.5775 -24650.229 15829.648)"><stop offset="0" stop-color="#ff3a44"/><stop offset="1" stop-color="#c31162"/></linearGradient><path d="M1087.6 971.3L918.3 802l-499.9 499.9c18.3 19.6 49 21.8 83.3 2.7l585.9-333.3" fill-rule="evenodd" clip-rule="evenodd" fill="url(#c)"/><linearGradient id="d" gradientUnits="userSpaceOnUse" x1="1660.636" y1="1365.668" x2="1687.767" y2="1330.45" gradientTransform="matrix(15.02 0 0 -11.5715 -24650.229 15809.992)"><stop offset="0" stop-color="#32a071"/><stop offset=".069" stop-color="#2da771"/><stop offset=".476" stop-color="#15cf74"/><stop offset=".801" stop-color="#06e775"/><stop offset="1" stop-color="#00f076"/></linearGradient><path d="M1087.6 632.7L501.7 299.9c-34.3-19.6-65.1-16.9-83.3 2.7L918.3 802l169.3-169.3z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#d)"/><path d="M1084 967.7l-581.9 330.6c-32.5 18.7-61.5 17.4-80.2.4l-3.1 3.1 3.1 2.7c18.7 16.9 47.7 18.3 80.2-.4L1088 971.3l-4-3.6z" opacity=".2" fill-rule="evenodd" clip-rule="evenodd"/><path d="M1283.6 854.1l-200.1 113.6 3.6 3.6 196-111.4c28.1-16 41.9-37 41.9-57.9-1.7 19.2-16 37.4-41.4 52.1z" opacity=".12" fill-rule="evenodd" clip-rule="evenodd"/><path d="M501.7 305.7l781.9 444.2c25.4 14.3 39.7 33 41.9 52.1 0-20.9-13.8-41.9-41.9-57.9L501.7 299.9c-56.1-32.1-101.6-5.3-101.6 58.8v5.8c0-64.2 45.5-90.5 101.6-58.8z" opacity=".25" fill-rule="evenodd" clip-rule="evenodd" fill="#fff"/></svg>	</a>
+</div>
+<div class="wm-footer-social-icons">
+	<a href="https://facebook.com/pages/Weedmaps/191821183380" rel="noopener noreferrer" target="_blank" class="social-link">
+		<span class="sr-only">Facebook</span>
+		<svg class="wm-icon-facebook-standard" viewBox="0 0 24 24"><path fill="currentColor" d="M14.3 8.6V6.2l.3-.4.4-.3h3V2h-3.3c-1.9 0-3.2.4-4 1.1-.9.8-1.3 2-1.3 3.4v2H7V12h2.4v10h5V12h3.2l.4-3.4h-3.7z"/></svg>	</a>
+	<a href="https://www.instagram.com/weedmaps/" rel="noopener noreferrer" target="_blank" class="social-link width-20">
+		<span class="sr-only">Instagram</span>
+		<svg class="wm-icon wm-instagram-standard" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>	</a>
+	<a href="https://twitter.com/weedmaps" rel="noopener noreferrer" target="_blank" class="social-link">
+		<span class="sr-only">Twitter</span>
+		<svg class="wm-icon-twitter-standard" viewBox="0 0 21 21"><path fill="currentColor" d="M21 4.8l-2.4.6c1-.5 1.5-1.2 1.8-2.1-.8.4-1.6.7-2.6.9a4.1 4.1 0 00-3-1.2c-1 0-2 .4-2.9 1.1a3.5 3.5 0 00-1 3.6 12.2 12.2 0 01-8.5-4 3.5 3.5 0 000 3.7c.3.6.7 1 1.3 1.4-.7 0-1.3-.2-1.9-.5 0 1 .3 1.7 1 2.4.6.7 1.4 1.2 2.3 1.3a4.6 4.6 0 01-1.9.1A4.2 4.2 0 007 14.7a8.5 8.5 0 01-6 1.6 12.9 12.9 0 0010.4 1 10.7 10.7 0 005.6-4.1 10.6 10.6 0 002-6.5c.7-.5 1.4-1.2 2-2z"/></svg>	</a>
+	<a href="https://www.linkedin.com/company/weedmaps" rel="noopener noreferrer" target="_blank" class="social-link width-20">
+		<span class="sr-only">LinkedIn</span>
+		<svg viewBox="0 0 310 310"><path fill="currentColor" d="M72.16 99.73H9.927a5 5 0 00-5 5v199.928a5 5 0 005 5H72.16a5 5 0 005-5V104.73a5 5 0 00-5-5zM41.066.341C18.422.341 0 18.743 0 41.362 0 63.991 18.422 82.4 41.066 82.4c22.626 0 41.033-18.41 41.033-41.038C82.1 18.743 63.692.341 41.066.341zm189.388 94.42c-24.995 0-43.472 10.745-54.679 22.954V104.73a5 5 0 00-5-5h-59.599a5 5 0 00-5 5v199.928a5 5 0 005 5h62.097a5 5 0 005-5V205.74c0-33.333 9.054-46.319 32.29-46.319 25.306 0 27.317 20.818 27.317 48.034v97.204a5 5 0 005 5H305a5 5 0 005-5V194.995c0-49.565-9.451-100.234-79.546-100.234z"/></svg>	</a>
+	<a href="https://youtube.com/nugporn" rel="noopener noreferrer" target="_blank" class="social-link">
+		<span class="sr-only">YouTube</span>
+		<svg viewBox="0 0 235 166"><path d="M229.763 25.817c-2.699-10.162-10.65-18.165-20.747-20.881C190.716 0 117.333 0 117.333 0S43.951 0 25.651 4.936C15.554 7.652 7.602 15.655 4.904 25.817 0 44.237 0 82.667 0 82.667s0 38.43 4.904 56.85c2.698 10.162 10.65 18.164 20.747 20.881 18.3 4.935 91.682 4.935 91.682 4.935s73.383 0 91.683-4.935c10.097-2.717 18.048-10.72 20.747-20.88 4.904-18.422 4.904-56.851 4.904-56.851s0-38.43-4.904-56.85" fill="currentColor"/><path d="M93.333 117.558l61.334-34.89-61.334-34.893z" fill="#FFF"/></svg>	</a>
+	<a href="https://medium.com/@weedmaps" rel="noopener noreferrer" target="_blank" class="social-link">
+		<span class="sr-only">Medium</span>
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 195"><path d="M0 0v195h195V0H0zm162 46.2l-10.5 10c-.9.7-1.3 1.8-1.2 2.9v73.7c-.2 1.1.3 2.2 1.2 2.9l10.2 10v2.2h-51.4v-2.2l10.6-10.3c1-1 1-1.3 1-2.9V73l-29.4 74.7h-4L54.4 73v50.1c-.3 2.1.4 4.2 1.9 5.7L70 145.6v2.2H31v-2.2l13.8-16.7c1.5-1.5 2.1-3.7 1.8-5.7v-58c.2-1.6-.5-3.2-1.7-4.3L32.7 46.2V44h38l29.4 64.4L125.8 44H162v2.2z" fill="currentColor"/></svg>	</a>
+</div>
+		</div>
+
+		<div class="footer-link-groups">
+
+			<div class="footer-nav-group">
+				<h3 class="nav-group-heading static">Company</h3>
+				<h3 class="nav-group-heading collapse-toggle" data-collapse-controls="footer-general">
+					Company					<span class="accordion-icon">
+						<svg class="wm-icon wm-arrow" width="16" height="16" viewBox="0 0 451.847 451.847"><path fill="currentColor" d="M225.923 354.706c-8.098 0-16.195-3.092-22.37-9.263L9.27 151.157c-12.36-12.36-12.36-32.397 0-44.75 12.354-12.355 32.388-12.355 44.748 0L225.923 278.32 397.83 106.413c12.358-12.354 32.39-12.354 44.743 0 12.365 12.354 12.365 32.392 0 44.75L248.293 345.45c-6.178 6.17-14.275 9.256-22.37 9.256z"/></svg>					</span>
+				</h3>
+				<nav id="footer-general" class="collapse-panel">
+					<ul class="footer-nav-list panel">
+						<li><a class="footer-nav-link" href="https://weedmaps.com/corporate">About Us</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/careers">Careers</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/faq">FAQ</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/contact">Contact Us</a></li>
+						<li><a class="footer-nav-link" href="http://www.wmpolicy.com/">Advocacy</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/sitemap">Sitemap</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="footer-nav-group">
+				<h3 class="nav-group-heading static">Discover</h3>
+				<h3 class="nav-group-heading collapse-toggle" data-collapse-controls="footer-discover">
+					Discover					<span class="accordion-icon">
+						<svg class="wm-icon wm-arrow" width="16" height="16" viewBox="0 0 451.847 451.847"><path fill="currentColor" d="M225.923 354.706c-8.098 0-16.195-3.092-22.37-9.263L9.27 151.157c-12.36-12.36-12.36-32.397 0-44.75 12.354-12.355 32.388-12.355 44.748 0L225.923 278.32 397.83 106.413c12.358-12.354 32.39-12.354 44.743 0 12.365 12.354 12.365 32.392 0 44.75L248.293 345.45c-6.178 6.17-14.275 9.256-22.37 9.256z"/></svg>					</span>
+				</h3>
+				<nav id="footer-discover" class="collapse-panel">
+					<ul class="footer-nav-list">
+						<li><a class="footer-nav-link" href="https://weedmaps.com/dispensaries/in/">Dispensaries</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/deliveries">Deliveries</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/doctors/in/">Doctors</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/deals">Nearby Deals</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/brands">Brands</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/strains">Strains</a></li>
+						<li><a class="footer-nav-link" href="https://store.weedmaps.com">Gear</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="footer-nav-group">
+				<h3 class="nav-group-heading static">Business</h3>
+				<h3 class="nav-group-heading collapse-toggle" data-collapse-controls="footer-business">
+					Business					<span class="accordion-icon">
+						<svg class="wm-icon wm-arrow" width="16" height="16" viewBox="0 0 451.847 451.847"><path fill="currentColor" d="M225.923 354.706c-8.098 0-16.195-3.092-22.37-9.263L9.27 151.157c-12.36-12.36-12.36-32.397 0-44.75 12.354-12.355 32.388-12.355 44.748 0L225.923 278.32 397.83 106.413c12.358-12.354 32.39-12.354 44.743 0 12.365 12.354 12.365 32.392 0 44.75L248.293 345.45c-6.178 6.17-14.275 9.256-22.37 9.256z"/></svg>					</span>
+				</h3>
+				<nav id="footer-business" class="collapse-panel">
+					<ul class="footer-nav-list">
+						<li><a class="footer-nav-link" href="https://weedmaps.com/add-a-business">Add A Business</a></li>
+					</ul>
+				</nav>
+			</div> 
+			<div class="footer-nav-group">
+				<h3 class="nav-group-heading static">Legal</h3>
+				<h3 class="nav-group-heading collapse-toggle" data-collapse-controls="footer-legal">
+					Legal					<span class="accordion-icon">
+						<svg class="wm-icon wm-arrow" width="16" height="16" viewBox="0 0 451.847 451.847"><path fill="currentColor" d="M225.923 354.706c-8.098 0-16.195-3.092-22.37-9.263L9.27 151.157c-12.36-12.36-12.36-32.397 0-44.75 12.354-12.355 32.388-12.355 44.748 0L225.923 278.32 397.83 106.413c12.358-12.354 32.39-12.354 44.743 0 12.365 12.354 12.365 32.392 0 44.75L248.293 345.45c-6.178 6.17-14.275 9.256-22.37 9.256z"/></svg>					</span>
+				</h3>
+				<nav id="footer-legal" class="collapse-panel">
+					<ul class="footer-nav-list panel">
+						<li><a class="footer-nav-link" href="https://weedmaps.com/terms">Terms Of Use</a></li>
+						<li><a class="footer-nav-link" href="https://weedmaps.com/privacy">Privacy</a></li>
+					</ul>
+				</nav>
+				</div>
+			</div> 
+		</div>
+
+	</div>
+</div>
+	<p class="wm-footer-legal">
+	Copyright ©&nbsp;2020&nbsp;Weedmaps. 	<svg xmlns="http://www.w3.org/2000/svg" class="wm-icon wm-logo" preserveAspectRatio="xMidYMid slice" viewBox="0 0 150 36"><g fill="none"><path fill="#00CDBE" d="M15.015 21.956l-2.706-10.21h-.06l-2.59 10.21H5.34L.515 6.748h4.41L7.72 17.072h.06l2.53-10.324h4.06l2.587 10.295h.06L19.81 6.748h4.293L19.31 21.956m13.53-11.624c-.5-.55-1.26-.823-2.28-.823-.666 0-1.22.11-1.66.33-.44.22-.795.5-1.06.83-.264.33-.45.69-.558 1.06-.108.37-.17.7-.192 1h6.794c-.195-1.06-.543-1.86-1.044-2.41m-4.72 8c.628.61 1.53.91 2.706.91.842 0 1.568-.21 2.176-.63.608-.42.98-.87 1.118-1.34h3.677c-.59 1.82-1.49 3.13-2.706 3.91-1.21.78-2.68 1.17-4.41 1.17-1.19 0-2.27-.19-3.23-.57-.96-.38-1.77-.93-2.44-1.64a7.444 7.444 0 01-1.54-2.53c-.36-.99-.54-2.06-.54-3.24 0-1.14.19-2.2.56-3.18.37-.98.9-1.83 1.59-2.55.69-.72 1.51-1.28 2.46-1.69.95-.42 2.01-.62 3.16-.62 1.3 0 2.42.25 3.38.75s1.75 1.17 2.37 2.01c.62.84 1.06 1.8 1.34 2.88.28 1.07.38 2.2.3 3.38h-11c.06 1.35.41 2.33 1.03 2.94m20.94-8c-.5-.55-1.26-.82-2.28-.82-.66 0-1.22.11-1.66.33a3.089 3.089 0 00-1.62 1.9c-.1.37-.17.7-.19 1h6.8c-.19-1.06-.54-1.87-1.04-2.42m-4.72 8c.63.61 1.53.91 2.71.91.85 0 1.57-.21 2.18-.63.61-.42.98-.87 1.12-1.34h3.68c-.59 1.82-1.49 3.13-2.7 3.91-1.21.79-2.68 1.18-4.41 1.18-1.2 0-2.28-.19-3.24-.58-.96-.38-1.77-.93-2.44-1.63a7.444 7.444 0 01-1.54-2.53c-.36-.98-.54-2.06-.54-3.24 0-1.14.188-2.2.56-3.18.37-.98.9-1.83 1.59-2.55.69-.72 1.51-1.28 2.46-1.69.95-.417 2.01-.62 3.16-.62 1.3 0 2.42.25 3.38.75s1.75 1.17 2.37 2.012c.62.84 1.07 1.8 1.34 2.88.28 1.08.37 2.205.29 3.383h-11c.06 1.36.403 2.34 1.03 2.94m21.89-5.83a4.415 4.415 0 00-.603-1.53 3.456 3.456 0 00-1.102-1.07c-.45-.27-1.02-.41-1.705-.41-.687 0-1.265.14-1.735.41-.47.28-.85.64-1.13 1.09-.28.455-.49.97-.62 1.55a8.84 8.84 0 00-.19 1.81c0 .583.07 1.172.21 1.76.14.585.36 1.11.66 1.57.31.46.69.83 1.15 1.115.46.28 1.02.427 1.66.427.69 0 1.26-.134 1.72-.41.46-.27.83-.64 1.11-1.1.28-.46.47-.99.59-1.573.12-.59.18-1.2.18-1.82 0-.63-.06-1.236-.17-1.81zm.177 7.53c-.49.82-1.132 1.42-1.926 1.78-.794.36-1.69.55-2.69.55-1.137 0-2.14-.22-3-.66a5.997 5.997 0 01-2.133-1.796 8.13 8.13 0 01-1.264-2.604c-.28-.98-.42-2-.42-3.06 0-1.02.14-2 .43-2.95.29-.95.71-1.79 1.27-2.52s1.26-1.31 2.11-1.75c.85-.445 1.83-.665 2.94-.665.9 0 1.76.19 2.58.57.82.38 1.46.948 1.93 1.69h.06V.96h4.18v21H66.5v-1.943h-.06zm41.916-7.49a4.396 4.396 0 00-.603-1.53c-.29-.44-.65-.8-1.11-1.07-.45-.273-1.02-.41-1.71-.41s-1.27.137-1.74.41c-.47.277-.85.64-1.14 1.09-.29.45-.49.967-.62 1.546-.13.578-.19 1.18-.19 1.81 0 .587.06 1.176.2 1.765.13.59.36 1.117.66 1.578.3.46.68.84 1.14 1.12.46.28 1.01.43 1.66.43.68 0 1.26-.13 1.72-.41.46-.27.83-.64 1.1-1.1.27-.46.47-.983.59-1.57.11-.59.17-1.192.17-1.82 0-.63-.06-1.233-.17-1.81zm.17 7.54c-.49.82-1.13 1.415-1.93 1.78-.8.36-1.69.54-2.69.54-1.14 0-2.14-.22-3-.66a5.959 5.959 0 01-2.13-1.79c-.56-.754-.98-1.62-1.27-2.6-.29-.98-.43-2-.43-3.06 0-1.02.14-2 .42-2.95.28-.95.7-1.79 1.26-2.517a6.318 6.318 0 012.1-1.75c.84-.44 1.82-.66 2.94-.66.9 0 1.76.19 2.57.573.81.38 1.45.94 1.92 1.69h.05V6.7h4.18v15.28h-3.97v-1.94h-.06zM77.06 6.77v2.06h.06c.548-.783 1.21-1.39 1.984-1.82.774-.43 1.663-.65 2.662-.65.96 0 1.838.188 2.633.56.79.373 1.39 1.028 1.8 1.97.45-.666 1.06-1.255 1.84-1.764.77-.508 1.69-.765 2.75-.765.8 0 1.55.1 2.23.3.68.2 1.27.51 1.76.94.49.44.87 1 1.15 1.7.27.7.41 1.54.41 2.52V22h-4.17v-8.63c0-.508-.02-.99-.06-1.44-.04-.45-.15-.84-.33-1.176a2.02 2.02 0 00-.78-.795c-.34-.2-.81-.3-1.4-.3-.59 0-1.07.11-1.43.34-.37.22-.65.52-.86.88-.21.36-.35.77-.41 1.23-.07.46-.11.92-.11 1.4v8.47h-4.17v-8.53c0-.45-.01-.9-.03-1.34a3.95 3.95 0 00-.25-1.22c-.15-.37-.39-.67-.74-.9-.35-.23-.85-.34-1.52-.34-.2 0-.46.04-.78.13-.33.09-.64.25-.94.5-.31.24-.57.6-.78 1.06-.22.46-.33 1.06-.33 1.81v8.82H73.1V6.77h3.94zm47.163 12.06a3.38 3.38 0 001.12-1.075c.284-.443.484-.957.602-1.546a8.98 8.98 0 00.176-1.79c0-.61-.06-1.2-.19-1.79-.13-.58-.34-1.11-.63-1.57-.29-.46-.67-.83-1.13-1.11-.46-.28-1.02-.42-1.69-.42-.69 0-1.26.14-1.72.43-.46.29-.83.65-1.11 1.1-.28.45-.48.97-.6 1.56a9.131 9.131 0 00.02 3.61c.13.59.34 1.1.62 1.54.28.44.66.8 1.13 1.07.47.27 1.04.41 1.71.41.69 0 1.26-.14 1.72-.41zM118.8 6.77v1.94h.056c.51-.823 1.157-1.42 1.942-1.793.784-.373 1.647-.56 2.588-.56 1.196 0 2.226.226 3.088.677a6.374 6.374 0 012.15 1.793c.567.75.99 1.618 1.263 2.608.275.99.412 2.025.412 3.104 0 1.02-.14 2-.42 2.94-.28.94-.69 1.77-1.25 2.5-.56.72-1.26 1.3-2.09 1.73-.83.43-1.81.65-2.93.65-.94 0-1.81-.19-2.61-.58-.8-.38-1.45-.95-1.96-1.7H119v7.21h-4.176V6.77h3.972zm16.493 11.43c.187.324.426.59.72.794.295.207.632.36 1.016.458.38.097.77.146 1.19.146.29 0 .6-.034.92-.102.32-.068.61-.177.88-.325.26-.14.48-.34.66-.58.17-.24.26-.55.26-.93 0-.62-.42-1.09-1.25-1.41-.84-.31-2-.63-3.49-.94-.61-.13-1.2-.3-1.78-.48-.58-.18-1.1-.43-1.55-.73-.45-.3-.82-.68-1.09-1.14-.28-.46-.42-1.02-.42-1.69 0-.98.19-1.78.57-2.41a4.2 4.2 0 011.51-1.48c.62-.36 1.33-.61 2.11-.76.79-.15 1.59-.22 2.41-.22s1.62.08 2.4.24c.77.16 1.46.42 2.07.79.61.38 1.12.87 1.52 1.49.4.62.64 1.4.72 2.34h-3.97c-.06-.8-.37-1.35-.92-1.63-.55-.28-1.2-.43-1.94-.43-.24 0-.49.02-.77.04-.27.03-.52.09-.75.19-.22.1-.41.24-.57.43-.16.19-.24.44-.24.75 0 .38.14.68.41.91.27.24.63.43 1.07.58.44.15.94.28 1.51.4.57.12 1.145.25 1.734.38.605.14 1.2.3 1.78.5.58.2 1.09.46 1.542.78.45.32.81.72 1.09 1.2.27.48.41 1.07.41 1.78 0 1-.2 1.84-.61 2.51-.4.68-.925 1.22-1.57 1.64-.65.41-1.39.7-2.22.87-.837.17-1.686.25-2.55.25-.88 0-1.74-.09-2.59-.26-.84-.18-1.59-.47-2.25-.88a5.088 5.088 0 01-1.614-1.636c-.42-.672-.65-1.52-.69-2.54h4c0 .45.09.834.28 1.16"/><path class="smile" fill="#000" d="M72.824 31.033c9.028 0 13.598-3.428 13.598-3.428l1.942 2.628s-6.74 5.715-15.54 5.715c-8.8 0-15.54-5.715-15.54-5.715l1.942-2.628s4.57 3.428 13.598 3.428"/><path fill="#00CDBE" d="M146.924 8.304h.182c.26 0 .42-.01.483-.03.06-.02.11-.054.14-.105.03-.05.05-.11.05-.17 0-.07-.02-.12-.06-.17a.418.418 0 00-.15-.11c-.07-.02-.23-.03-.48-.03h-.18v.61zm-.45 1.257V7.35h.45c.42 0 .656 0 .707.005.15.012.27.042.35.088.09.047.15.117.21.212.06.096.09.2.09.317 0 .16-.05.297-.15.41a.695.695 0 01-.44.21.62.62 0 01.16.084c.04.03.09.086.15.17.02.022.07.11.16.27l.26.445h-.55l-.18-.35c-.12-.24-.23-.39-.31-.45a.496.496 0 00-.31-.09h-.11v.91h-.45zm.945-2.79c-.29 0-.57.08-.83.22-.27.15-.47.35-.62.62a1.701 1.701 0 00-.01 1.69c.15.27.35.48.62.62a1.65 1.65 0 001.66.01c.26-.14.47-.35.62-.62.15-.26.22-.54.22-.83 0-.29-.08-.57-.23-.84-.15-.27-.36-.47-.63-.62-.26-.14-.54-.21-.83-.21zm-.01-.41c.35 0 .7.09 1.03.27.32.18.58.44.77.77.19.34.28.69.28 1.05s-.1.71-.28 1.04c-.19.33-.44.59-.77.77-.33.19-.68.28-1.04.28s-.71-.09-1.04-.27c-.33-.18-.59-.44-.77-.77a2.03 2.03 0 01-.28-1.04c0-.36.09-.71.28-1.05.19-.33.44-.59.77-.77.33-.18.67-.27 1.03-.27z"/></g></svg>		&amp;
+	<svg class="wm-icon wm-logo-mini" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 19"><g fill="none"><path d="M.46.893v9.35h29.645V.893H.46z"/><path fill="#00CDBE" d="M18.46 1.14v1.232h.035a3.57 3.57 0 011.2-1.092c.465-.258 1-.387 1.605-.387.58 0 1.11.11 1.59.334.478.223.842.617 1.09 1.18.272-.4.642-.75 1.11-1.057.468-.305 1.02-.457 1.66-.457.485 0 .935.06 1.35.176.414.117.768.305 1.064.563.296.258.527.596.692 1.013.166.417.25.92.25 1.506v6.092h-2.522v-5.16c0-.304-.012-.59-.036-.86a1.827 1.827 0 00-.194-.707 1.21 1.21 0 00-.47-.48c-.208-.12-.49-.18-.844-.18-.355 0-.642.07-.86.2-.22.132-.392.31-.516.53a2.08 2.08 0 00-.25.74c-.04.27-.06.55-.06.832v5.07h-2.52v-5.1c0-.27-.007-.54-.02-.8-.01-.267-.06-.51-.15-.733-.09-.224-.237-.4-.443-.537-.2-.13-.51-.2-.91-.2-.12 0-.27.03-.47.08-.19.05-.38.15-.57.3-.18.15-.34.36-.47.637-.13.28-.19.64-.19 1.086v5.28h-2.52V1.14h2.369zm-9.248 9.103l-1.634-6.11h-.035l-1.563 6.11H3.37L.46 1.14h2.663l1.686 6.18h.03L6.37 1.14h2.452l1.562 6.163h.035L12.1 1.14h2.592L11.8 10.243H9.21z"/><path d="M31.72 3.01h1.204V.604h-2.41V3.01h1.205z"/><path fill="#00CDBE" d="M31.433 1.724h.106c.15 0 .243-.004.28-.016a.15.15 0 00.085-.06c.03-.03.04-.062.04-.1a.168.168 0 00-.031-.094.175.175 0 00-.09-.06c-.04-.01-.13-.017-.28-.017h-.11v.348zm-.26.727V1.174h.26c.244 0 .38 0 .41.003a.524.524 0 01.2.05.357.357 0 01.168.307c0 .092-.03.17-.09.236a.41.41 0 01-.254.122c.038.014.068.03.09.048.02.017.05.05.086.098.01.013.04.064.094.155l.15.25h-.32l-.107-.21c-.072-.14-.132-.23-.18-.268a.284.284 0 00-.18-.055h-.065v.525h-.262zm.547-1.61a.986.986 0 00-.477.123.894.894 0 00-.36.356.98.98 0 00-.002.969.9.9 0 00.358.358c.153.086.313.13.48.13a.976.976 0 00.972-.97.973.973 0 00-.133-.487.881.881 0 00-.36-.356.988.988 0 00-.478-.124zm0-.237c.205 0 .404.052.594.155.19.103.34.25.45.443a1.174 1.174 0 01.01 1.205c-.1.19-.25.337-.44.444-.19.106-.39.16-.6.16-.21 0-.41-.054-.6-.16a1.134 1.134 0 01-.445-.445c-.107-.19-.16-.39-.16-.6-.016-.21.039-.41.149-.602.105-.194.255-.342.445-.445.19-.103.39-.155.597-.155z"/><path class="smile" fill="#000" d="M15.39 15.578c5.448 0 8.206-2.052 8.206-2.052l1.172 1.573s-4.068 3.42-9.38 3.42-9.38-3.42-9.38-3.42l1.174-1.58s2.758 2.05 8.208 2.05"/></g></svg>	are registered trademarks of Ghost Management Group, LLC. All Rights Reserved.</p>
+
+</footer>
+
+	</div></div>
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22main%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fweedmaps.com%5C%2Fnews%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22scroll%22%2C%22wrapper%22%3Atrue%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3A%22page%22%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22Older%20posts%22%2C%22totop%22%3A%22Scroll%20back%20to%20top%22%2C%22currentday%22%3A%2213.03.20%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A1%2C%22history%22%3A%7B%22host%22%3A%22weedmaps.com%5C%2Fnews%22%2C%22path%22%3A%22%5C%2Fpage%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A%22%22%2C%22author_name%22%3A%22%22%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22paged%22%3A0%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22posts_per_page%22%3A7%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Atrue%2C%22update_post_term_cache%22%3Atrue%2C%22lazy_load_term_meta%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22post_type%22%3A%22%22%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%7D%2C%22query_before%22%3A%222020-03-19%2002%3A22%3A15%22%2C%22last_post_date%22%3A%222020-03-13%2011%3A57%3A00%22%2C%22body_class%22%3A%22infinite-scroll%20neverending%22%2C%22stats%22%3A%22blog%3D154652679%26host%3Dweedmaps.com%26v%3Dext%26j%3D1%3A8.0%26x_pagetype%3Dinfinite-jetpack%22%7D%7D' ) );
+		//]]>
+		</script>
+		<script type="text/template" id="tmpl-age-gate">
+
+  <div class="age-gate-wrapper"><div class="age-gate-background-colour"></div><div class="age-gate-loader"><svg version="1.1" class="age-gate-loading-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve"><path opacity="0.2" d="M20.201,5.169c-8.254,0-14.946,6.692-14.946,14.946c0,8.255,6.692,14.946,14.946,14.946 s14.946-6.691,14.946-14.946C35.146,11.861,28.455,5.169,20.201,5.169z M20.201,31.749c-6.425,0-11.634-5.208-11.634-11.634 c0-6.425,5.209-11.634,11.634-11.634c6.425,0,11.633,5.209,11.633,11.634C31.834,26.541,26.626,31.749,20.201,31.749z"/><path d="M26.013,10.047l1.654-2.866c-2.198-1.272-4.743-2.012-7.466-2.012h0v3.312h0 C22.32,8.481,24.301,9.057,26.013,10.047z"><animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="0 20 20"
+            to="360 20 20"
+            dur="0.5s"
+            repeatCount="indefinite"/></path></svg>    </div><div class="age-gate"><form method="post" action="https://weedmaps.com/news/wp-admin/admin-post.php" class="age-gate-form"><h1 class="age-gate-heading age-gate-logo"><img src="https://weedmaps.com/news/wp-content/uploads/2019/01/WM-Logo.jpg" alt="Weedmaps News" class="age-gate-logo-image" /></h1><div class="age-gate-error" data-error-field="buttons"></div><p class="age-gate-challenge">Are you 21 or older?</p><button type="submit" value="1" name="age_gate[confirm]" class="age-gate-submit-yes">Yes, I am.</button><button type="submit" name="age_gate[confirm]" class="age-gate-submit-no">No, I am not.</button><input type="hidden" name="age_gate[age]" value="TWpFPQ==" /><input type="hidden" name="action" value="age_gate_submit" /><input type="hidden"  name="age_gate[nonce]" value="7e0798735e" /><input type="hidden" name="_wp_http_referer" value="/" /><input type="hidden" name="confirm_action" value="0" /></form></div></div>
+
+</script>		<div id="infinite-footer">
+			<div class="container">
+				<div class="blog-info">
+					<a id="infinity-blog-title" href="https://weedmaps.com/news/" rel="home">
+						Weedmaps News					</a>
+				</div>
+				<div class="blog-credits">
+					<a href="https://wordpress.org/" rel="noopener noreferrer" target="_blank" rel="generator">Proudly powered by WordPress</a> Theme: WMNews (WP Bootstrap 4 Child).				</div>
+			</div>
+		</div><!-- #infinite-footer -->
+		<!-- `jetpack-responsive-videos-style` is included in the concatenated jetpack.css -->
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/jetpack/_inc/build/infinite-scroll/infinity.min.js?ver=4.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var age_gate_params = {"ajaxurl":"https:\/\/weedmaps.com/news\/wp-admin\/admin-ajax.php","settings":{"age":21,"type":"selected","bypass":false,"restrict":false,"title":false,"current_title":"Weedmaps News - The Latest Marijuana &amp; Cannabis News","screen":"home","ignore_logged":0,"rechallenge":1,"has_filter":false,"viewport":"1","anon":0,"transition":"fade"},"misc":{"i":"0","t":"home","qs":0},"errors":{"invalid":"Your input was invalid","failed":"You&#39;re not old enough to visit Weedmaps. Please come back when you&#39;re of age.","generic":"An error occurred, please try again","cookies":"Your browser does not support cookies, you may experience problems entering this site"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/age-gate/public/js/age-gate-public.js?ver=2.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/weedmaps.com/news\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dot_irecommendthis = {"ajaxurl":"https:\/\/weedmaps.com/news\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/i-recommend-this/js/dot_irecommendthis.js?ver=2.6.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202012'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LfC19EUAAAAAIUCsJIRNqNPfmlh-KBhPcD1Ybzz6LfC19EUAAAAAHumiByR8WRXuceGOJc-WeydqU8g&#038;ver=3.0'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rest_object = {"api_nonce":"2680a52485","api_url":"https:\/\/weedmaps.com/news\/wp-json\/wm\/v1\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/themes/wmnews/js/theme.min.js?ver=1.0.0.1578602611'></script>
+<script type='text/javascript' src='//connect.facebook.net/en_US/sdk.js?ver=3#xfbml=1&#038;version=v3.2&#038;appId=2332369147050079&#038;autoLogAppEvents=1'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/themes/wmnews/assets/js/segment/segment.js?ver=1565037814'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/themes/wmnews/assets/js/segment/segment-wmnews.js?ver=1565037814'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/themes/wp-bootstrap-4/assets/js/bootstrap.js?ver=v4.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxsearchlite = {"ajaxurl":"https:\/\/weedmaps.com/news\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/weedmaps.com/news\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASL = {"ajaxurl":"https:\/\/weedmaps.com/news\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/weedmaps.com/news\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","scrollbar":"1","js_retain_popstate":"0","version":"4737","fix_duplicates":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js?ver=4.8'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=8.0'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/themes/wmnews/assets/js/segment/segment-article-listing.js?ver=1565037814'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/jetpack/modules/theme-tools/responsive-videos/responsive-videos.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://weedmaps.com/news/wp-content/plugins/jetpack/_inc/build/shortcodes/js/instagram.min.js?ver=8.0'></script>
+<script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery-core","jquery-migrate","jquery","spin","jquery.spin","the-neverending-homepage","age-gate","contact-form-7","dot-irecommendthis","devicepx","google-recaptcha","mediaelement-core","mediaelement-migrate","mediaelement","wp-mediaelement","wmnews-scripts","facebook-like-sdk","segment-base-js","segment-wmnews-js","bootstrap-4-js","wpdreams-ajaxsearchlite","jetpack-lazy-images","wp-embed","segment-article-listing-js","jetpack-responsive-videos-min-script","jetpack-instagram-embed"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["the-neverending-homepage","wp-block-library","age-gate","age-gate-user-options","bcct_style","contact-form-7","mediaelement","wp-mediaelement","wm-ddi8hrs","font-awesome","wm-parent-style","wmnews-styles","open-iconic-bootstrap","bootstrap-4","wpdreams-asl-basic","wpdreams-ajaxsearchlite","jetpack_css","jetpack-responsive-videos-style"] );
+		</script><script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LfC19EUAAAAAIUCsJIRNqNPfmlh-KBhPcD1Ybzz6LfC19EUAAAAAHumiByR8WRXuceGOJc-WeydqU8g',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-202012.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.0',blog:'154652679',post:'0',tz:'-7',srv:'weedmaps.com/news'} ]);
+	_stq.push([ 'clickTrackerInit', '154652679', '0' ]);
+</script>
+
+
+<script type="text/javascript">var nonce = '2680a52485';
+
+
+var menuHeight = jQuery('.wmnews-header').outerHeight();
+jQuery(window).scroll(function () {
+    if (jQuery(window).scrollTop() > 30 ) { 
+    jQuery('.wmnews-header').css('position', 'fixed');
+    jQuery('.site-content').css('margin-top', menuHeight);
+    }else{
+    jQuery('.wmnews-header').css('position','');
+    jQuery('.site-content').css('margin-top', '');
+    } 
+});      
+</script>
+
+<script type="text/javascript">function openNav() {
+    document.getElementById("wmSidenav").style.width = "280px";
+    document.getElementById("wmSidenav").style.position = "fixed";
+    document.getElementById("page").style.marginLeft = "0px"; // this to move page over
+    document.getElementById("wmnews-overlay").style.position = "fixed";
+    document.getElementById("wmnews-sidenav-main-links").style.position = "fixed";
+
+    jQuery(document).ready(function($) {
+        //this will show the navbar when opened
+        $('#wmnews-sidenav-full').show();
+    });
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+    document.getElementById("wmSidenav").style.width = "0";
+    document.getElementById("page").style.marginLeft = "0px";
+    document.getElementById("wmnews-overlay").style.position = "relative";
+    document.getElementById("wmSidenav").style.position = "relative";
+    document.getElementById("wmnews-sidenav-main-links").style.position = "relative";
+
+    jQuery(document).ready(function($) {
+        //this will hide the navbar when closed
+        $('#wmnews-sidenav-full').hide();
+    });
+}
+
+// accordions
+jQuery(document).ready(function(){
+	//toggle the component with class accordion_body
+	jQuery(".accordion_head").click(function(){
+        var $aHead = jQuery(this);
+
+        //don't do accordian action if mobile icons aren't visible
+        if($aHead.children('.wmnews-mobile:visible').length == 0)
+        {
+            return false;
+        }
+
+		if(!$aHead.hasClass('opened') ){
+			jQuery('.accordion_head.opened').removeClass('opened');
+			$aHead.addClass('opened');
+		}else{
+			$aHead.removeClass('opened');
+		}
+		if (jQuery('.accordion_body').is(':visible')) {
+			jQuery(".accordion_body").slideUp(300);
+			//jQuery(".plusminus").text('+');
+		}
+        if( $aHead.next(".accordion_body").is(':visible')){
+            $aHead.next(".accordion_body").slideUp(300);
+            //$aHead.children(".plusminus").text('+');
+        }else {
+            $aHead.next(".accordion_body").slideDown(300); 
+            //$aHead.children(".plusminus").text('-');
+        }
+	});
+   jQuery(window).resize(function(){
+      //Window has entered desktop mode. Close all others
+      if(window.matchMedia( "(min-width: 1024px)" ).matches){
+            jQuery("div.footer-nav-group .accordion_head").removeClass('opened');
+            jQuery("div.footer-nav-group .accordion_body").css('display', 'none')
+      }
+   });
+});
+
+</script>
+
+
+
+<script type='text/javascript'>
+    (function () {
+        var w = window,
+            d = document;
+        var s = d.createElement('script');
+        s.setAttribute('async', 'true');
+        s.setAttribute('type', 'text/javascript');
+        s.setAttribute('src', '//c1.rfihub.net/js/tc.min.js');
+        var f = d.getElementsByTagName('script')[0];
+        f.parentNode.insertBefore(s, f);
+        if (typeof w['_rfi'] !== 'function') {
+            w['_rfi'] = function ()
+
+            {
+                w['_rfi'].commands = w['_rfi'].commands || [];
+                w['_rfi'].commands.push(arguments);
+            };
+        }
+        _rfi('setArgs', 'ver', '9');
+        _rfi('setArgs', 'rb', '37093');
+        _rfi('setArgs', 'ca', '20810546');
+        _rfi('setArgs', '_o', '37093');
+        _rfi('setArgs', '_t', '20810546');
+        _rfi('track');
+    })();
+</script>
+<noscript>
+    <iframe src='//20810546p.rfihub.com/ca.html?rb=37093&ca=20810546&_o=37093&_t=20810546&ra=YOUR_CUSTOM_CACHE_BUSTER'
+        style='display:none;padding:0;margin:0' width='0' height='0'>
+    </iframe>
+</noscript>
+
+<script type='text/javascript'>
+    (function () {
+        var w = window,
+            d = document;
+        var s = d.createElement('script');
+        s.setAttribute('async', 'true');
+        s.setAttribute('type', 'text/javascript');
+        s.setAttribute('src', '//c1.rfihub.net/js/tc.min.js');
+        var f = d.getElementsByTagName('script')[0];
+        f.parentNode.insertBefore(s, f);
+        if (typeof w['_rfi'] !== 'function') {
+            w['_rfi'] = function () {
+                w['_rfi'].commands = w['_rfi'].commands || [];
+                w['_rfi'].commands.push(arguments);
+            }
+
+            ;
+        }
+        _rfi('setArgs', 'ver', '9');
+        _rfi('setArgs', 'rb', '37093');
+        _rfi('setArgs', 'ca', '20810716');
+        _rfi('setArgs', '_o', '37093');
+        _rfi('setArgs', '_t', '20810716');
+        _rfi('track');
+    })();
+</script>
+<noscript>
+    <iframe src='//20810716p.rfihub.com/ca.html?rb=37093&ca=20810716&_o=37093&_t=20810716&ra=YOUR_CUSTOM_CACHE_BUSTER' style='display:none;padding:0;margin:0' width='0' height='0'></iframe>
+</noscript>
+
+<script>!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 'AQjmwLQpWv2l7lCad_TW-w');</script>
+
+
+</body>
+</html>
+
